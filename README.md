@@ -119,7 +119,11 @@ The **Power Pressure Score ($PPS \in [0, 100]$)** combines three weighted empiri
 $$PPS = 0.40 \times \text{Norm}(RP) + 0.35 \times \text{Norm}(AIP) + 0.25 \times \text{Norm}(\text{Burden Delta})$$
 
 ### 1. Rate Pressure Ratio ($RP$)
-$$\text{Rate Pressure Ratio} = \frac{\%\Delta \text{ Residential Electricity Rate (12-Month)}}{\max(0.1, \%\Delta \text{ Median Household Income (12-Month)})}$$
+$$\text{Rate Pressure Ratio} = \frac{\Delta \text{Residential Electricity Rate (12-Month \%)}}{\max(0.1, \Delta \text{Median Household Income (12-Month \%)})}$$
+
+```
+Rate Pressure Ratio = %Δ Residential Electricity Rate (12-Month) / max(0.1, %Δ Median Household Income (12-Month))
+```
 
 ### 2. Effective AI Load ($MW_{\text{eff}}$) & Pressure ($AIP$)
 $$MW_{\text{eff}} = (\text{Planned MW} \times 1.0) + (\text{Under-Construction MW} \times 0.85) + (\text{Operational MW} \times 0.40)$$

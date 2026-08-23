@@ -1,4 +1,4 @@
-# Power Draw — Methodology & Analytical Framework
+# Silicon Surcharge — Methodology & Analytical Framework
 ## Global AI Infrastructure & Electricity Pressure Intelligence
 
 ---
@@ -9,7 +9,7 @@ The rapid global expansion of artificial intelligence infrastructure represents 
 
 In regions experiencing dense AI clustering, local electric utilities must make substantial capital investments in new high-voltage substations, transmission lines, and generation capacity.
 
-**Power Draw** is an autonomous web intelligence system engineered to continuously monitor:
+**Silicon Surcharge** is an autonomous web intelligence system engineered to continuously monitor:
 1. **Large AI / data-center infrastructure announcements and construction permits**
 2. **Regulated residential retail electricity tariffs and rate change filings**
 3. **Local community median household incomes and economic capacity**
@@ -19,10 +19,10 @@ In regions experiencing dense AI clustering, local electric utilities must make 
 ## 2. Important Distinction: Correlation vs Causation
 
 > [!IMPORTANT]
-> **Power Draw detects spatial and temporal association; it does NOT establish or assert causation.**
+> **Silicon Surcharge detects spatial and temporal association; it does NOT establish or assert causation.**
 
-Power Draw prominently displays this distinction throughout its user interface and reports:
-> *"Power Draw identifies regions where large AI data-center expansion and residential electricity-price pressure overlap. It does not establish causation."*
+Silicon Surcharge prominently displays this distinction throughout its user interface and reports:
+> *"Silicon Surcharge identifies regions where large AI data-center expansion and residential electricity-price pressure overlap. It does not establish causation."*
 
 Utility rate structures are determined through state or national regulatory proceedings influenced by diverse factors including:
 - Fuel commodity costs (natural gas, coal)
@@ -30,7 +30,7 @@ Utility rate structures are determined through state or national regulatory proc
 - Decarbonization and renewable generation buildouts
 - Inflation and storm hardening capital expenditures
 
-Power Draw provides the unified public-interest intelligence necessary for journalists, researchers, policymakers, and communities to investigate these intersections with transparent source attribution.
+Silicon Surcharge provides the unified public-interest intelligence necessary for journalists, researchers, policymakers, and communities to investigate these intersections with transparent source attribution.
 
 ---
 
@@ -39,7 +39,7 @@ Power Draw provides the unified public-interest intelligence necessary for journ
 ### A. Rate Pressure Ratio ($RP$)
 Measures the asymmetry between the rate of growth in residential electricity prices and the rate of growth in median household income:
 
-$$RP = \frac{\max(0, \%\Delta \text{ Residential Electricity Rate}_{12\text{mo}})}{\max(0.1, \%\Delta \text{ Median Household Income}_{12\text{mo}})}$$
+$$RP = \frac{\max(0, \Delta \text{Residential Electricity Rate}_{12\text{mo}})}{\max(0.1, \Delta \text{Median Household Income}_{12\text{mo}})}$$
 
 - When $RP = 1.0\times$, electricity prices and incomes are increasing at identical rates.
 - When $RP \ge 2.5\times$, electricity prices are escalating at more than 2.5 times the pace of household income gains.

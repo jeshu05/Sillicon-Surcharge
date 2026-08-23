@@ -126,7 +126,7 @@ Silicon Surcharge is built around three foundational design tenets:
 
 ### E. Historical Rate Analysis (`pipeline/historical_rates.js`, `pipeline/history.js`)
 - Compares incoming electricity rate schedules against historical rate snapshots stored in `data/history/snapshots.json`.
-- Accurately computes true 12-month trailing rate percentage changes ($\%\Delta$) for each monitored utility territory.
+- Accurately computes true 12-month trailing rate percentage changes ($\Delta\text{Rate \%}$) for each monitored utility territory.
 
 ### F. Mathematical Scoring & Explainability (`pipeline/score.js`)
 - Computes the calibrated **Power Pressure Score (0–100)**.
