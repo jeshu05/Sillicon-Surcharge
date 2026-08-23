@@ -6,7 +6,6 @@
 
 [![Bright Data Scraper Studio](https://img.shields.io/badge/Bright_Data-Scraper_Studio-black?style=for-the-badge&logo=databricks)](https://brightdata.com)
 [![Architecture](https://img.shields.io/badge/Architecture-Static--First_Pipeline-black?style=for-the-badge)](./ARCHITECTURE.md)
-[![Tests](https://img.shields.io/badge/Tests-25%2F25_Passing-black?style=for-the-badge)](./tests/)
 [![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)](./LICENSE)
 
 ---
