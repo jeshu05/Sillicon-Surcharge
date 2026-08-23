@@ -1,0 +1,38 @@
+{
+  "name": "silicon-surcharge",
+  "version": "1.0.0",
+  "description": "Silicon Surcharge — Global AI Infrastructure & Electricity Pressure Intelligence with Autonomous Self-Healing Scrapers",
+  "type": "module",
+  "main": "pipeline/run.js",
+  "scripts": {
+    "start": "node scripts/local-run.js",
+    "pipeline": "node pipeline/run.js",
+    "seed": "node scripts/seed.js",
+    "test": "node --test tests/*.test.js",
+    "validate": "node scripts/validate-schema.js",
+    "simulate:heal": "node scripts/simulate-heal.js",
+    "serve": "node scripts/serve.js",
+    "bdata": "npx -y -p @brightdata/cli bdata",
+    "bdata:login": "npx -y -p @brightdata/cli bdata login",
+    "bdata:version": "npx -y -p @brightdata/cli bdata --version",
+    "bdata:run:datacenters": "npx -y -p @brightdata/cli bdata scraper run c_mt5jpgbb1jwdnovfeu https://aidatacenterindex.com/datacenters/ --pretty",
+    "bdata:run:electricity": "npx -y -p @brightdata/cli bdata scraper run c_mt5k0hcv20n2v7arut https://www.globalpetrolprices.com/electricity_prices/ --pretty",
+    "bdata:run:economics": "npx -y -p @brightdata/cli bdata scraper run c_mt5k12zk2qzd5rjm0d https://www.numbeo.com/cost-of-living/prices_by_country.jsp --pretty",
+    "bdata:heal:datacenters": "npx -y -p @brightdata/cli bdata scraper heal c_mt5jpgbb1jwdnovfeu \"Update DOM selector for facility_name and capacity_mw while preserving datacenter JSON schema contract\"",
+    "bdata:heal:electricity": "npx -y -p @brightdata/cli bdata scraper heal c_mt5k0hcv20n2v7arut \"Update DOM selector for residential_rate_cents_kwh while preserving electricity JSON schema contract\"",
+    "bdata:heal:economics": "npx -y -p @brightdata/cli bdata scraper heal c_mt5k12zk2qzd5rjm0d \"Update DOM selector for median_household_income while preserving economics JSON schema contract\""
+  },
+  "keywords": [
+    "bright-data",
+    "ai-infrastructure",
+    "electricity-rates",
+    "web-intelligence",
+    "self-healing-scrapers",
+    "data-centers"
+  ],
+  "author": "Silicon Surcharge Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

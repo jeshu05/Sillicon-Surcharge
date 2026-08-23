@@ -1,0 +1,3581 @@
+{
+  "metadata": {
+    "description": "Multi-year historical snapshots dynamically computed from live ingestion pipeline",
+    "last_updated": "2026-08-23T17:31:15.891Z",
+    "monitored_regions_count": 83
+  },
+  "regions": {
+    "us-la-richland": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 10.41,
+        "median_income": 38596,
+        "ai_capacity_mw": 1225,
+        "power_pressure_score": 38,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 11.54,
+        "median_income": 39445,
+        "ai_capacity_mw": 2450,
+        "power_pressure_score": 58,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 12.8,
+        "median_income": 40313,
+        "ai_capacity_mw": 7500,
+        "power_pressure_score": 80,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 14.2,
+        "median_income": 41200,
+        "ai_capacity_mw": 10000,
+        "power_pressure_score": 100,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-pa-luzerne": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 12.55,
+        "median_income": 56887,
+        "ai_capacity_mw": 573,
+        "power_pressure_score": 35,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 14.26,
+        "median_income": 58480,
+        "ai_capacity_mw": 1145,
+        "power_pressure_score": 54,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 16.2,
+        "median_income": 60117,
+        "ai_capacity_mw": 2404,
+        "power_pressure_score": 74,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 18.4,
+        "median_income": 61800,
+        "ai_capacity_mw": 4675,
+        "power_pressure_score": 93,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-oh-franklin": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.25,
+        "median_income": 67314,
+        "ai_capacity_mw": 525,
+        "power_pressure_score": 34,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.97,
+        "median_income": 69535,
+        "ai_capacity_mw": 1050,
+        "power_pressure_score": 52,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.95,
+        "median_income": 71830,
+        "ai_capacity_mw": 1840,
+        "power_pressure_score": 72,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 17.24,
+        "median_income": 74200,
+        "ai_capacity_mw": 8768,
+        "power_pressure_score": 90,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-in-st-joseph": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.62,
+        "median_income": 58924,
+        "ai_capacity_mw": 1540,
+        "power_pressure_score": 33,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.98,
+        "median_income": 60633,
+        "ai_capacity_mw": 3080,
+        "power_pressure_score": 51,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.5,
+        "median_income": 62391,
+        "ai_capacity_mw": 5264,
+        "power_pressure_score": 70,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 16.2,
+        "median_income": 64200,
+        "ai_capacity_mw": 5400,
+        "power_pressure_score": 88,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-wi-racine": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 12.71,
+        "median_income": 62504,
+        "ai_capacity_mw": 316,
+        "power_pressure_score": 32,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 14.22,
+        "median_income": 64442,
+        "ai_capacity_mw": 631,
+        "power_pressure_score": 49,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 15.91,
+        "median_income": 66440,
+        "ai_capacity_mw": 3542,
+        "power_pressure_score": 68,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 17.8,
+        "median_income": 68500,
+        "ai_capacity_mw": 7502,
+        "power_pressure_score": 85,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-tn-shelby": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 10.8,
+        "median_income": 57163,
+        "ai_capacity_mw": 1400,
+        "power_pressure_score": 32,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 11.8,
+        "median_income": 58764,
+        "ai_capacity_mw": 2800,
+        "power_pressure_score": 48,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 12.9,
+        "median_income": 60409,
+        "ai_capacity_mw": 4640,
+        "power_pressure_score": 66,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 14.1,
+        "median_income": 62100,
+        "ai_capacity_mw": 4000,
+        "power_pressure_score": 83,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-tx-dallas": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.44,
+        "median_income": 65136,
+        "ai_capacity_mw": 931,
+        "power_pressure_score": 30,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.49,
+        "median_income": 67286,
+        "ai_capacity_mw": 1862,
+        "power_pressure_score": 46,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 13.64,
+        "median_income": 69506,
+        "ai_capacity_mw": 5220,
+        "power_pressure_score": 63,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 14.9,
+        "median_income": 71800,
+        "ai_capacity_mw": 7600,
+        "power_pressure_score": 79,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-va-loudoun": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.32,
+        "median_income": 154676,
+        "ai_capacity_mw": 385,
+        "power_pressure_score": 29,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.66,
+        "median_income": 159780,
+        "ai_capacity_mw": 770,
+        "power_pressure_score": 44,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.15,
+        "median_income": 165053,
+        "ai_capacity_mw": 1480,
+        "power_pressure_score": 60,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 15.82,
+        "median_income": 170500,
+        "ai_capacity_mw": 6070,
+        "power_pressure_score": 75,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ie-leinster-dublin": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 31.11,
+        "median_income": 57570,
+        "ai_capacity_mw": 217,
+        "power_pressure_score": 28,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 35.18,
+        "median_income": 59700,
+        "ai_capacity_mw": 434,
+        "power_pressure_score": 43,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 39.79,
+        "median_income": 61909,
+        "ai_capacity_mw": 1395,
+        "power_pressure_score": 59,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 45,
+        "median_income": 64200,
+        "ai_capacity_mw": 2558,
+        "power_pressure_score": 74,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "fr-idf-paris": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 20.86,
+        "median_income": 49027,
+        "ai_capacity_mw": 1553,
+        "power_pressure_score": 28,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 22.9,
+        "median_income": 50694,
+        "ai_capacity_mw": 3107,
+        "power_pressure_score": 43,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 25.14,
+        "median_income": 52418,
+        "ai_capacity_mw": 4670,
+        "power_pressure_score": 59,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 27.6,
+        "median_income": 54200,
+        "ai_capacity_mw": 12680,
+        "power_pressure_score": 74,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "kr-46-jeollanam": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 10,
+        "median_income": 46244,
+        "ai_capacity_mw": 766,
+        "power_pressure_score": 28,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.83,
+        "median_income": 47400,
+        "ai_capacity_mw": 1532,
+        "power_pressure_score": 42,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11.73,
+        "median_income": 48585,
+        "ai_capacity_mw": 2288,
+        "power_pressure_score": 58,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.7,
+        "median_income": 49800,
+        "ai_capacity_mw": 6250,
+        "power_pressure_score": 73,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-or-washington": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.86,
+        "median_income": 0,
+        "ai_capacity_mw": 852,
+        "power_pressure_score": 25,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 13.18,
+        "median_income": 0,
+        "ai_capacity_mw": 1705,
+        "power_pressure_score": 38,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.64,
+        "median_income": 0,
+        "ai_capacity_mw": 2715,
+        "power_pressure_score": 52,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 16.27,
+        "median_income": 0,
+        "ai_capacity_mw": 3135,
+        "power_pressure_score": 65,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ca-ab-calgary": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.44,
+        "median_income": 68056,
+        "ai_capacity_mw": 1470,
+        "power_pressure_score": 26,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.31,
+        "median_income": 70234,
+        "ai_capacity_mw": 2940,
+        "power_pressure_score": 40,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11.26,
+        "median_income": 72481,
+        "ai_capacity_mw": 6120,
+        "power_pressure_score": 55,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.3,
+        "median_income": 74800,
+        "ai_capacity_mw": 12000,
+        "power_pressure_score": 69,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "jp-kanto-tokyo": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 17.05,
+        "median_income": 46920,
+        "ai_capacity_mw": 333,
+        "power_pressure_score": 25,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 18.76,
+        "median_income": 47765,
+        "ai_capacity_mw": 665,
+        "power_pressure_score": 39,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 20.64,
+        "median_income": 48625,
+        "ai_capacity_mw": 1438,
+        "power_pressure_score": 54,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 22.7,
+        "median_income": 49500,
+        "ai_capacity_mw": 2170,
+        "power_pressure_score": 67,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "br-rs-rio-grande": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 12.06,
+        "median_income": 20806,
+        "ai_capacity_mw": 766,
+        "power_pressure_score": 25,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 13.36,
+        "median_income": 21971,
+        "ai_capacity_mw": 1532,
+        "power_pressure_score": 39,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.8,
+        "median_income": 23201,
+        "ai_capacity_mw": 2788,
+        "power_pressure_score": 54,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 16.4,
+        "median_income": 24500,
+        "ai_capacity_mw": 6250,
+        "power_pressure_score": 67,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gb-eng-slough": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 30.87,
+        "median_income": 49859,
+        "ai_capacity_mw": 301,
+        "power_pressure_score": 25,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 33.71,
+        "median_income": 51454,
+        "ai_capacity_mw": 602,
+        "power_pressure_score": 38,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 36.81,
+        "median_income": 53101,
+        "ai_capacity_mw": 1520,
+        "power_pressure_score": 52,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 40.2,
+        "median_income": 54800,
+        "ai_capacity_mw": 2510,
+        "power_pressure_score": 65,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "za-gt-johannesburg": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 13.71,
+        "median_income": 21025,
+        "ai_capacity_mw": 140,
+        "power_pressure_score": 24,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 15.78,
+        "median_income": 22034,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 36,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 18.16,
+        "median_income": 23092,
+        "ai_capacity_mw": 520,
+        "power_pressure_score": 50,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 20.9,
+        "median_income": 24200,
+        "ai_capacity_mw": 700,
+        "power_pressure_score": 62,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-az-maricopa": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 12,
+        "median_income": 74626,
+        "ai_capacity_mw": 172,
+        "power_pressure_score": 24,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 13.33,
+        "median_income": 77163,
+        "ai_capacity_mw": 343,
+        "power_pressure_score": 36,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.81,
+        "median_income": 79787,
+        "ai_capacity_mw": 1050,
+        "power_pressure_score": 50,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 16.45,
+        "median_income": 82500,
+        "ai_capacity_mw": 1400,
+        "power_pressure_score": 62,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-ga-douglas": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11.56,
+        "median_income": 0,
+        "ai_capacity_mw": 110,
+        "power_pressure_score": 21,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.84,
+        "median_income": 0,
+        "ai_capacity_mw": 221,
+        "power_pressure_score": 32,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 14.26,
+        "median_income": 0,
+        "ai_capacity_mw": 675,
+        "power_pressure_score": 45,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 15.84,
+        "median_income": 0,
+        "ai_capacity_mw": 900,
+        "power_pressure_score": 56,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ae-az-abu-dhabi": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 7.45,
+        "median_income": 86838,
+        "ai_capacity_mw": 1225,
+        "power_pressure_score": 24,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 7.82,
+        "median_income": 89790,
+        "ai_capacity_mw": 2450,
+        "power_pressure_score": 36,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 8.2,
+        "median_income": 92843,
+        "ai_capacity_mw": 7500,
+        "power_pressure_score": 50,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 8.6,
+        "median_income": 96000,
+        "ai_capacity_mw": 10000,
+        "power_pressure_score": 62,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-ia-polk": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 10.32,
+        "median_income": 0,
+        "ai_capacity_mw": 390,
+        "power_pressure_score": 21,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 11.46,
+        "median_income": 0,
+        "ai_capacity_mw": 781,
+        "power_pressure_score": 32,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 12.73,
+        "median_income": 0,
+        "ai_capacity_mw": 1255,
+        "power_pressure_score": 45,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 14.14,
+        "median_income": 0,
+        "ai_capacity_mw": 1465,
+        "power_pressure_score": 56,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-ut-salt-lake": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.45,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 20,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.5,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 30,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11.67,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 42,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.96,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 52,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "sa-ri-riyadh": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 4.68,
+        "median_income": 71214,
+        "ai_capacity_mw": 525,
+        "power_pressure_score": 22,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 4.85,
+        "median_income": 73564,
+        "ai_capacity_mw": 1050,
+        "power_pressure_score": 33,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 5.02,
+        "median_income": 75992,
+        "ai_capacity_mw": 2492,
+        "power_pressure_score": 46,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 5.2,
+        "median_income": 78500,
+        "ai_capacity_mw": 4480,
+        "power_pressure_score": 57,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "se-ab-stockholm": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 18.98,
+        "median_income": 53745,
+        "ai_capacity_mw": 168,
+        "power_pressure_score": 21,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 20.61,
+        "median_income": 55411,
+        "ai_capacity_mw": 336,
+        "power_pressure_score": 31,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 22.38,
+        "median_income": 57129,
+        "ai_capacity_mw": 680,
+        "power_pressure_score": 43,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 24.3,
+        "median_income": 58900,
+        "ai_capacity_mw": 980,
+        "power_pressure_score": 54,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-ca-santa-clara": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 24.25,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 18,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 26.94,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 29.93,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 38,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 33.25,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 47,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-il-cook": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 17.39,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 18,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 19.32,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 21.47,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 38,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 23.85,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 47,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-nv-storey": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.92,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 18,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 11.02,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 12.24,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 38,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 13.6,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 47,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-nc-mecklenburg": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 11,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 18,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 12.22,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 13.58,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 38,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 15.09,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 47,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "de-he-frankfurt": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 33.05,
+        "median_income": 54566,
+        "ai_capacity_mw": 179,
+        "power_pressure_score": 20,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 35.4,
+        "median_income": 56258,
+        "ai_capacity_mw": 358,
+        "power_pressure_score": 31,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 37.91,
+        "median_income": 58002,
+        "ai_capacity_mw": 879,
+        "power_pressure_score": 42,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 40.6,
+        "median_income": 59800,
+        "ai_capacity_mw": 1460,
+        "power_pressure_score": 53,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "au-nsw-sydney": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 19.62,
+        "median_income": 70328,
+        "ai_capacity_mw": 186,
+        "power_pressure_score": 20,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 21.52,
+        "median_income": 72860,
+        "ai_capacity_mw": 372,
+        "power_pressure_score": 30,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 23.61,
+        "median_income": 75483,
+        "ai_capacity_mw": 1140,
+        "power_pressure_score": 42,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 25.9,
+        "median_income": 78200,
+        "ai_capacity_mw": 1520,
+        "power_pressure_score": 52,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "za-wc-capetown": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 13.76,
+        "median_income": 23351,
+        "ai_capacity_mw": 70,
+        "power_pressure_score": 19,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 15.69,
+        "median_income": 24448,
+        "ai_capacity_mw": 140,
+        "power_pressure_score": 30,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 17.89,
+        "median_income": 25597,
+        "ai_capacity_mw": 232,
+        "power_pressure_score": 41,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 20.4,
+        "median_income": 26800,
+        "ai_capacity_mw": 200,
+        "power_pressure_score": 51,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "no-03-oslo": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 12.99,
+        "median_income": 69805,
+        "ai_capacity_mw": 68,
+        "power_pressure_score": 20,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 14.07,
+        "median_income": 71969,
+        "ai_capacity_mw": 135,
+        "power_pressure_score": 30,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 15.24,
+        "median_income": 74200,
+        "ai_capacity_mw": 413,
+        "power_pressure_score": 42,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 16.5,
+        "median_income": 76500,
+        "ai_capacity_mw": 550,
+        "power_pressure_score": 52,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "my-jh-johor": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 4.13,
+        "median_income": 22676,
+        "ai_capacity_mw": 331,
+        "power_pressure_score": 19,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 4.4,
+        "median_income": 23855,
+        "ai_capacity_mw": 662,
+        "power_pressure_score": 28,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 4.69,
+        "median_income": 25095,
+        "ai_capacity_mw": 2025,
+        "power_pressure_score": 39,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 5,
+        "median_income": 26400,
+        "ai_capacity_mw": 2700,
+        "power_pressure_score": 49,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "au-vic-melbourne": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 21.23,
+        "median_income": 66873,
+        "ai_capacity_mw": 333,
+        "power_pressure_score": 18,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 23.23,
+        "median_income": 69013,
+        "ai_capacity_mw": 665,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 25.41,
+        "median_income": 71221,
+        "ai_capacity_mw": 1092,
+        "power_pressure_score": 38,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 27.8,
+        "median_income": 73500,
+        "ai_capacity_mw": 1304,
+        "power_pressure_score": 47,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "cl-rm-santiago": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 15.11,
+        "median_income": 25483,
+        "ai_capacity_mw": 133,
+        "power_pressure_score": 17,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 17.33,
+        "median_income": 26757,
+        "ai_capacity_mw": 266,
+        "power_pressure_score": 27,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 19.88,
+        "median_income": 28095,
+        "ai_capacity_mw": 441,
+        "power_pressure_score": 37,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 22.8,
+        "median_income": 29500,
+        "ai_capacity_mw": 380,
+        "power_pressure_score": 46,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "in-mh-mumbai": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 5.71,
+        "median_income": 15403,
+        "ai_capacity_mw": 368,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 6.31,
+        "median_income": 16373,
+        "ai_capacity_mw": 735,
+        "power_pressure_score": 25,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 6.97,
+        "median_income": 17404,
+        "ai_capacity_mw": 1530,
+        "power_pressure_score": 34,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 7.7,
+        "median_income": 18500,
+        "ai_capacity_mw": 2250,
+        "power_pressure_score": 43,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "in-tg-hyderabad": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.09,
+        "median_income": 13774,
+        "ai_capacity_mw": 177,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10,
+        "median_income": 14890,
+        "ai_capacity_mw": 355,
+        "power_pressure_score": 25,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11,
+        "median_income": 16096,
+        "ai_capacity_mw": 847,
+        "power_pressure_score": 34,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.1,
+        "median_income": 17400,
+        "ai_capacity_mw": 1450,
+        "power_pressure_score": 43,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ng-la-lagos": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 1.67,
+        "median_income": 9290,
+        "ai_capacity_mw": 42,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 2.16,
+        "median_income": 10061,
+        "ai_capacity_mw": 84,
+        "power_pressure_score": 25,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 2.79,
+        "median_income": 10896,
+        "ai_capacity_mw": 139,
+        "power_pressure_score": 34,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 3.6,
+        "median_income": 11800,
+        "ai_capacity_mw": 120,
+        "power_pressure_score": 43,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "es-md-madrid": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 19.58,
+        "median_income": 38534,
+        "ai_capacity_mw": 43,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 21.38,
+        "median_income": 39844,
+        "ai_capacity_mw": 85,
+        "power_pressure_score": 24,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 23.35,
+        "median_income": 41199,
+        "ai_capacity_mw": 262,
+        "power_pressure_score": 33,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 25.5,
+        "median_income": 42600,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 41,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "mx-qt-queretaro": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 8.58,
+        "median_income": 18702,
+        "ai_capacity_mw": 196,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 9.29,
+        "median_income": 19861,
+        "ai_capacity_mw": 392,
+        "power_pressure_score": 24,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 10.06,
+        "median_income": 21092,
+        "ai_capacity_mw": 1200,
+        "power_pressure_score": 33,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 10.9,
+        "median_income": 22400,
+        "ai_capacity_mw": 1600,
+        "power_pressure_score": 41,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "cn-nm-horinger": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 6.93,
+        "median_income": 19639,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 15,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 7.21,
+        "median_income": 20641,
+        "ai_capacity_mw": 560,
+        "power_pressure_score": 23,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 7.5,
+        "median_income": 21694,
+        "ai_capacity_mw": 1440,
+        "power_pressure_score": 32,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 7.8,
+        "median_income": 22800,
+        "ai_capacity_mw": 2400,
+        "power_pressure_score": 40,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "pl-mz-warsaw": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 17.4,
+        "median_income": 31621,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 15,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 19.26,
+        "median_income": 33170,
+        "ai_capacity_mw": 700,
+        "power_pressure_score": 23,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 21.32,
+        "median_income": 34795,
+        "ai_capacity_mw": 1160,
+        "power_pressure_score": 31,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 23.6,
+        "median_income": 36500,
+        "ai_capacity_mw": 1000,
+        "power_pressure_score": 39,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "nl-nh-amsterdam": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 21.84,
+        "median_income": 56510,
+        "ai_capacity_mw": 147,
+        "power_pressure_score": 14,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 23.89,
+        "median_income": 58657,
+        "ai_capacity_mw": 294,
+        "power_pressure_score": 22,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 26.14,
+        "median_income": 60886,
+        "ai_capacity_mw": 540,
+        "power_pressure_score": 30,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 28.6,
+        "median_income": 63200,
+        "ai_capacity_mw": 720,
+        "power_pressure_score": 38,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ke-na-nairobi": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 15.63,
+        "median_income": 11656,
+        "ai_capacity_mw": 19,
+        "power_pressure_score": 14,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 17.49,
+        "median_income": 12449,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 22,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 19.57,
+        "median_income": 13296,
+        "ai_capacity_mw": 113,
+        "power_pressure_score": 30,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 21.9,
+        "median_income": 14200,
+        "ai_capacity_mw": 150,
+        "power_pressure_score": 38,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "tw-tp-taipei": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.95,
+        "median_income": 40686,
+        "ai_capacity_mw": 158,
+        "power_pressure_score": 14,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.65,
+        "median_income": 41825,
+        "ai_capacity_mw": 315,
+        "power_pressure_score": 21,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11.4,
+        "median_income": 42996,
+        "ai_capacity_mw": 570,
+        "power_pressure_score": 30,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.2,
+        "median_income": 44200,
+        "ai_capacity_mw": 750,
+        "power_pressure_score": 37,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "sg-central-singapore": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 19.57,
+        "median_income": 84742,
+        "ai_capacity_mw": 89,
+        "power_pressure_score": 13,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 20.74,
+        "median_income": 87877,
+        "ai_capacity_mw": 179,
+        "power_pressure_score": 20,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 21.98,
+        "median_income": 91128,
+        "ai_capacity_mw": 547,
+        "power_pressure_score": 28,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 23.3,
+        "median_income": 94500,
+        "ai_capacity_mw": 730,
+        "power_pressure_score": 35,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "id-jb-jakarta": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 7.53,
+        "median_income": 13986,
+        "ai_capacity_mw": 153,
+        "power_pressure_score": 13,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 7.99,
+        "median_income": 14867,
+        "ai_capacity_mw": 307,
+        "power_pressure_score": 20,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 8.48,
+        "median_income": 15804,
+        "ai_capacity_mw": 938,
+        "power_pressure_score": 28,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 9,
+        "median_income": 16800,
+        "ai_capacity_mw": 1250,
+        "power_pressure_score": 35,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-cer-cernavod": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 184,
+        "power_pressure_score": 17,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 368,
+        "power_pressure_score": 26,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 765,
+        "power_pressure_score": 35,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 1500,
+        "power_pressure_score": 44,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-uni-uniteds": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 767,
+        "power_pressure_score": 16,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 1533,
+        "power_pressure_score": 25,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 2620,
+        "power_pressure_score": 34,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 2690,
+        "power_pressure_score": 43,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ru-mo-moscow": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 5.4,
+        "median_income": 24674,
+        "ai_capacity_mw": 399,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 5.86,
+        "median_income": 25858,
+        "ai_capacity_mw": 798,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 6.36,
+        "median_income": 27099,
+        "ai_capacity_mw": 1322,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 6.9,
+        "median_income": 28400,
+        "ai_capacity_mw": 1140,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "in-tn-chennai": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 8.72,
+        "median_income": 13114,
+        "ai_capacity_mw": 43,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 9.48,
+        "median_income": 14071,
+        "ai_capacity_mw": 85,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 10.3,
+        "median_income": 15098,
+        "ai_capacity_mw": 262,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 11.2,
+        "median_income": 16200,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "cn-hb-zhangbei": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 6.89,
+        "median_income": 27183,
+        "ai_capacity_mw": 385,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 7.12,
+        "median_income": 28461,
+        "ai_capacity_mw": 770,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 7.36,
+        "median_income": 29799,
+        "ai_capacity_mw": 1320,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 7.6,
+        "median_income": 31200,
+        "ai_capacity_mw": 1650,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "eg-ca-cairo": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 1.49,
+        "median_income": 7844,
+        "ai_capacity_mw": 56,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 1.72,
+        "median_income": 8448,
+        "ai_capacity_mw": 112,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 1.99,
+        "median_income": 9099,
+        "ai_capacity_mw": 186,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 2.3,
+        "median_income": 9800,
+        "ai_capacity_mw": 160,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "in-ka-bengaluru": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.77,
+        "median_income": 15630,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.69,
+        "median_income": 16912,
+        "ai_capacity_mw": 196,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 11.7,
+        "median_income": 18299,
+        "ai_capacity_mw": 325,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 12.8,
+        "median_income": 19800,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 28,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "cn-gd-qingyuan": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 9.76,
+        "median_income": 29888,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 10,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 10.22,
+        "median_income": 31352,
+        "ai_capacity_mw": 700,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 10.7,
+        "median_income": 32888,
+        "ai_capacity_mw": 1160,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 11.2,
+        "median_income": 34500,
+        "ai_capacity_mw": 1000,
+        "power_pressure_score": 27,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-and-andhrap": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 14,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 245,
+        "power_pressure_score": 21,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 750,
+        "power_pressure_score": 30,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 1000,
+        "power_pressure_score": 37,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-pin-pineisl": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 13,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 147,
+        "power_pressure_score": 20,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 306,
+        "power_pressure_score": 27,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 600,
+        "power_pressure_score": 34,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-ban-bangkok": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 17,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 21,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-pav-pavlodar": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 700,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 1160,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 1000,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-bri-british": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-qui-quincy": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-tam-tamesna": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 17,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 21,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-ban-banchan": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 99,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 303,
+        "power_pressure_score": 17,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 404,
+        "power_pressure_score": 21,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "nl-eem-eemshave": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 17,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 21,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-buf-buffalo": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-ell-ellendal": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-pap-papillio": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "es-zar-zaragoza": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 16,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 20,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "no-kri-kristian": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-ode-odense": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 16,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 20,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "se-lul-lulen": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 16,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 20,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-mon-moncksc": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 43,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 85,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 262,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "jp-tom-tomakoma": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "br-so-sopaul": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 16,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 20,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-sai-saintgh": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 8,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 12,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 16,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 20,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-so-sopaul": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 175,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 350,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 580,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-bi-bianl": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 31,
+        "power_pressure_score": 7,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 62,
+        "power_pressure_score": 11,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 188,
+        "power_pressure_score": 15,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 250,
+        "power_pressure_score": 19,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-okl-oklahoma": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 210,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 420,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 696,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 600,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gl-inv-invercar": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 34,
+        "power_pressure_score": 7,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 69,
+        "power_pressure_score": 11,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 210,
+        "power_pressure_score": 15,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 19,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-va-prince-william": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 10,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-va-caroline": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 10,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-tx-shackelford": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 10,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-tx-bexar": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 10,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 16,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 22,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 0,
+        "power_pressure_score": 27,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "nl-ban-bangkok": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "de-tam-tamesna": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 61,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 122,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 375,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 500,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "nl-ban-banchan": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 99,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 303,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 404,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "fi-eem-eemshave": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "us-zar-zaragoza": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "dk-ode-odense": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "rs-lul-lulen": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "gb-so-sopaul": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "be-sai-saintgh": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 37,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 74,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 225,
+        "power_pressure_score": 24,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 30,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ph-bi-bianl": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 31,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 62,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 188,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 250,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "tz-inv-invercar": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 34,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 69,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 210,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ]
+  }
+}

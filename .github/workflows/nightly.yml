@@ -1,0 +1,63 @@
+name: Nightly Power Draw Pipeline
+
+on:
+  schedule:
+    # Run nightly at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Run Test Suite
+        run: npm test
+
+      - name: Execute Autonomous Intelligence Pipeline
+        env:
+          BRIGHT_DATA_API_KEY: ${{ secrets.BRIGHT_DATA_API_KEY }}
+          BRIGHT_DATA_COLLECTOR_ID_DATACENTERS: ${{ secrets.BRIGHT_DATA_COLLECTOR_ID_DATACENTERS || 'c_pd_datacenters_01' }}
+          BRIGHT_DATA_COLLECTOR_ID_ELECTRICITY: ${{ secrets.BRIGHT_DATA_COLLECTOR_ID_ELECTRICITY || 'c_pd_electricity_02' }}
+          BRIGHT_DATA_COLLECTOR_ID_ECONOMICS: ${{ secrets.BRIGHT_DATA_COLLECTOR_ID_ECONOMICS || 'c_pd_economics_03' }}
+        run: |
+          npm run pipeline
+          npm run validate
+
+      - name: Commit & Push Updated Intelligence Datasets
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore(data): automated nightly intelligence snapshot [skip ci]"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Static Dashboard Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Silicon Surcharge — Global AI Infrastructure & Electricity Pressure Intelligence</title>
+  <meta name="description" content="Independent evidence-surfacing platform monitoring where rapid AI/data-center infrastructure expansion overlaps with rising residential electricity costs and economic capacity.">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet Map CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Top Command Header -->
+    <header class="top-nav">
+      <div class="nav-brand">
+        <div class="brand-badge">
+          <span class="brand-text">SILICON SURCHARGE</span>
+        </div>
+        <span class="tagline">Global AI Infrastructure & Electricity Pressure Observability</span>
+      </div>
+
+      <!-- Live Telemetry KPI Bar -->
+      <div class="telemetry-bar">
+        <div class="telemetry-item" id="kpi-regions">
+          <span class="label">REGIONS MONITORED</span>
+          <span class="value" id="stat-regions-count">--</span>
+        </div>
+        <div class="telemetry-divider"></div>
+        <div class="telemetry-item" id="kpi-capacity">
+          <span class="label">TRACKED AI LOAD</span>
+          <span class="value cyan" id="stat-capacity-gw">-- GW</span>
+        </div>
+        <div class="telemetry-divider"></div>
+        <div class="telemetry-item" id="kpi-critical">
+          <span class="label">HIGH CONVERGENCE</span>
+          <span class="value red" id="stat-critical-count">--</span>
+        </div>
+      </div>
+
+      <!-- Header Action Buttons -->
+      <div class="nav-actions">
+        <button class="btn btn-primary" id="btn-open-overview">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+          Platform Overview
+        </button>
+        <button class="btn btn-secondary" id="btn-open-methodology">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+          Methodology
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace Layout (Map & Intelligence Feed) -->
+    <main class="main-layout">
+      
+      <!-- Left Panel: Global Map & Spatial Intelligence -->
+      <section class="map-section">
+        <div class="map-toolbar">
+          <div class="map-legend">
+            <span class="legend-chip critical"><span class="chip-dot"></span> High Convergence (80-100)</span>
+            <span class="legend-chip elevated"><span class="chip-dot"></span> Elevated (60-79)</span>
+            <span class="legend-chip watch"><span class="chip-dot"></span> Watch (30-59)</span>
+            <span class="legend-chip stable"><span class="chip-dot"></span> Baseline (0-29)</span>
+          </div>
+          <div class="map-controls">
+            <button class="btn-icon" id="btn-recenter-map" title="Reset View">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+              Reset Map
+            </button>
+          </div>
+        </div>
+        <div id="leaflet-map" class="map-canvas"></div>
+      </section>
+
+      <!-- Right Panel: Regional Intelligence Watchlist & Feed -->
+      <aside class="sidebar-section">
+        
+        <!-- Controls & Filters -->
+        <div class="filter-header">
+          <div class="search-box">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+            <input type="text" id="search-input" placeholder="Search region, county, operator, utility..." autocomplete="off">
+          </div>
+          
+          <div class="filter-row">
+            <select id="continent-filter" class="custom-select">
+              <option value="ALL">All Continents</option>
+              <option value="EUROPE">Europe & UK</option>
+              <option value="APAC">Asia-Pacific & India</option>
+              <option value="CHINA">China & East Asia</option>
+              <option value="AFRICA_ME">Africa & Middle East</option>
+              <option value="RUSSIA">Russia & Eurasia</option>
+              <option value="LATAM">Latin America & Canada</option>
+              <option value="NA">United States</option>
+            </select>
+
+            <select id="tier-filter" class="custom-select">
+              <option value="ALL">All Pressure Tiers</option>
+              <option value="CRITICAL">High Convergence</option>
+              <option value="ELEVATED">Elevated Pressure</option>
+              <option value="WATCH">Watch Status</option>
+              <option value="STABLE">Baseline Stable</option>
+            </select>
+          </div>
+
+          <div class="sort-row">
+            <select id="sort-filter" class="custom-select sort-select">
+              <option value="SCORE_DESC">Sort: Highest Pressure Score</option>
+              <option value="MW_DESC">Sort: Highest AI Load (MW)</option>
+              <option value="RATE_CHANGE_DESC">Sort: Highest Rate Change %</option>
+              <option value="RATIO_DESC">Sort: Highest Rate Pressure Ratio</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Watchlist Cards Container -->
+        <div class="watchlist-container" id="watchlist-feed">
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <span>Synchronizing live regional intelligence records...</span>
+          </div>
+        </div>
+
+      </aside>
+
+    </main>
+
+    <!-- Region Drill-Down Modal Drawer -->
+    <div class="modal-overlay" id="region-modal-overlay">
+      <div class="modal-drawer" id="region-drawer">
+        <div class="drawer-header">
+          <div>
+            <div class="drawer-region-tag" id="drawer-region-tag">REGIONAL EVIDENCE DOSSIER</div>
+            <h2 class="drawer-title" id="drawer-region-title">--</h2>
+            <div class="drawer-subtitle" id="drawer-region-subtitle">--</div>
+          </div>
+          <button class="btn-close" id="btn-close-drawer">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+
+        <div class="drawer-body">
+          
+          <!-- Power Pressure Composite Score Gauge Card -->
+          <div class="score-hero-card" id="drawer-hero-card">
+            <div class="score-dial-wrap">
+              <svg viewBox="0 0 120 120" class="score-radial">
+                <circle cx="60" cy="60" r="50" class="radial-bg"></circle>
+                <circle cx="60" cy="60" r="50" class="radial-progress" id="drawer-score-circle"></circle>
+              </svg>
+              <div class="score-dial-val">
+                <span class="score-num" id="drawer-score-num">--</span>
+                <span class="score-max">/100</span>
+              </div>
+            </div>
+            <div class="score-info">
+              <div class="tier-badge" id="drawer-tier-badge">--</div>
+              <div class="score-metrics-breakdown">
+                <div class="breakdown-bar">
+                  <div class="bar-header"><span>AI Load Component (35%)</span><span id="drawer-ai-component">-- / 35</span></div>
+                  <div class="bar-track"><div class="bar-fill cyan" id="drawer-ai-fill" style="width: 0%;"></div></div>
+                </div>
+                <div class="breakdown-bar">
+                  <div class="bar-header"><span>Rate Pressure Component (40%)</span><span id="drawer-rate-component">-- / 40</span></div>
+                  <div class="bar-track"><div class="bar-fill red" id="drawer-rate-fill" style="width: 0%;"></div></div>
+                </div>
+                <div class="breakdown-bar">
+                  <div class="bar-header"><span>Household Burden Delta (25%)</span><span id="drawer-burden-component">-- / 25</span></div>
+                  <div class="bar-track"><div class="bar-fill amber" id="drawer-burden-fill" style="width: 0%;"></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Non-Causal Analytics Explanation Points -->
+          <div class="narrative-card">
+            <div class="card-label">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+              WHY THIS REGION IS FLAGGED (EVIDENCE BREAKDOWN)
+            </div>
+            <ul class="why-flagged-list" id="drawer-why-flagged">
+              <!-- Injected by JS -->
+            </ul>
+          </div>
+
+          <!-- Key Metrics Quad Grid -->
+          <div class="stats-quad-grid">
+            <div class="quad-stat-box">
+              <div class="q-lbl">AI INFRASTRUCTURE LOAD</div>
+              <div class="q-val cyan" id="drawer-stat-mw">-- MW</div>
+              <div class="q-sub" id="drawer-stat-mw-sub">--</div>
+            </div>
+
+            <div class="quad-stat-box">
+              <div class="q-lbl">12-MONTH RATE TRAJECTORY</div>
+              <div class="q-val red" id="drawer-stat-rate">--%</div>
+              <div class="q-sub" id="drawer-stat-rate-sub">--</div>
+            </div>
+
+            <div class="quad-stat-box">
+              <div class="q-lbl">MEDIAN HOUSEHOLD INCOME</div>
+              <div class="q-val" id="drawer-stat-income">$--</div>
+              <div class="q-sub" id="drawer-stat-income-sub">--</div>
+            </div>
+
+            <div class="quad-stat-box">
+              <div class="q-lbl">RATE / INCOME PRESSURE RATIO</div>
+              <div class="q-val amber" id="drawer-stat-ratio">--×</div>
+              <div class="q-sub" id="drawer-stat-ratio-sub">--</div>
+            </div>
+          </div>
+
+          <!-- Multi-Year Convergence Trajectory Chart -->
+          <div class="timeline-chart-card">
+            <div class="card-label-row">
+              <div class="card-label">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+                MULTI-YEAR CONVERGENCE TRAJECTORY (2023 – 2026)
+              </div>
+              <div class="chart-legend">
+                <span class="leg-item cyan"><span class="leg-dot cyan"></span> AI Capacity (MW)</span>
+                <span class="leg-item red"><span class="leg-dot red"></span> Electricity Tariff (cents/kWh)</span>
+              </div>
+            </div>
+            <div class="chart-container">
+              <svg id="drawer-timeline-svg" class="timeline-svg" viewBox="0 0 580 200"></svg>
+            </div>
+          </div>
+
+          <!-- Active & Planned AI Infrastructure Facilities Table -->
+          <div class="facilities-table-card">
+            <div class="card-label">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="20" x="4" y="2" rx="2" ry="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M12 6h.01"/><path d="M12 10h.01"/><path d="M12 14h.01"/><path d="M16 10h.01"/><path d="M16 14h.01"/><path d="M8 10h.01"/><path d="M8 14h.01"/></svg>
+              IDENTIFIED HYPERSCALE & AI DATA CENTER PROJECTS
+            </div>
+            <div class="table-wrap">
+              <table class="data-table">
+                <thead>
+                  <tr>
+                    <th>Facility Name</th>
+                    <th>Operator / Developer</th>
+                    <th>Capacity</th>
+                    <th>Status</th>
+                    <th>Workload</th>
+                  </tr>
+                </thead>
+                <tbody id="drawer-facilities-tbody">
+                  <!-- Injected by JS -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Data Provenance & Source Audit -->
+          <div class="provenance-card">
+            <div class="card-label">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+              EMPIRICAL PROVENANCE & SOURCE AUDIT
+            </div>
+            <div class="provenance-grid" id="drawer-provenance-grid">
+              <!-- Injected by JS -->
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Platform Overview Modal -->
+    <div class="modal-overlay" id="overview-modal-overlay">
+      <div class="modal-card wide">
+        <div class="modal-header">
+          <div>
+            <div class="modal-tag">RESEARCH OBSERVATORY</div>
+            <h2 class="modal-title">Monitoring Hyperscale AI Expansion & Household Electricity Burdens</h2>
+          </div>
+          <button class="btn-close" id="btn-close-overview">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+        <div class="modal-body markdown-body">
+          <p style="font-size:0.9rem; color:#e4e4e7; line-height:1.6;">
+            <strong>Silicon Surcharge</strong> is an independent empirical intelligence observatory that monitors where rapid hyperscale AI data center buildouts geographically coincide with rising residential electricity tariffs and community economic vulnerability across 60+ countries and major metropolitan energy corridors.
+          </p>
+
+          <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin: 16px 0;">
+            <div class="pillar-card">
+              <div class="pillar-icon">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              </div>
+              <div class="pillar-content">
+                <h3>AI Infrastructure Tracking</h3>
+                <p>Aggregates active, under-construction, and planned GPU supercomputing campuses and hyperscale data centers from public interconnection filings and infrastructure registries.</p>
+              </div>
+            </div>
+
+            <div class="pillar-card">
+              <div class="pillar-icon">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+              </div>
+              <div class="pillar-content">
+                <h3>Retail Tariff Trajectories</h3>
+                <p>Tracks multi-year residential electricity prices against historical baseline snapshots to surface local price adjustments and utility rate filings.</p>
+              </div>
+            </div>
+
+            <div class="pillar-card">
+              <div class="pillar-icon">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
+              </div>
+              <div class="pillar-content">
+                <h3>Evidence-Surfacing Dossiers</h3>
+                <p>Synthesizes rate pressure ratios, power load scores, and economic burdens into a 0–100 Power Pressure Index with raw source provenance links.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="callout warning">
+            <strong>Quick Guide:</strong> Click any pulsing marker on the world map to inspect its regional dossier, or use the filters on the right to isolate High Convergence zones.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Methodology Modal -->
+    <div class="modal-overlay" id="methodology-modal-overlay">
+      <div class="modal-card wide">
+        <div class="modal-header">
+          <div>
+            <div class="modal-tag">SCIENTIFIC FRAMEWORK & TRANSPARENCY</div>
+            <h2 class="modal-title">Silicon Surcharge Methodology & Non-Causal Analytics</h2>
+          </div>
+          <button class="btn-close" id="btn-close-methodology">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+        <div class="modal-body markdown-body">
+          <h3>1. Purpose and Analytical Scope</h3>
+          <p>
+            Silicon Surcharge is an evidence-surfacing research tool designed to monitor where rapid AI and hyperscale infrastructure expansion geographically coincides with residential electricity rate increases and household economic vulnerability.
+          </p>
+          <div class="callout warning">
+            <strong>Critical Analytical Principle:</strong> Silicon Surcharge detects <em>spatial and temporal association</em>. It does NOT claim or establish that data center construction directly causes residential utility rate increases. Utility rates are governed by regulated public utility commissions based on multifaceted capital investments, fuel market volatility, transmission upgrades, and statutory rate structures.
+          </div>
+
+          <h3>2. Mathematical Formulas</h3>
+          <div class="formula-box">
+            <p><strong>Rate Pressure Ratio ($RP$):</strong></p>
+            <code>RP = %Δ Residential Electricity Rate (12-Month) / max(0.1, %Δ Median Household Income (12-Month))</code>
+          </div>
+          <div class="formula-box">
+            <p><strong>AI Load Pressure ($AIP$):</strong></p>
+            <code>AIP = min(100, (Planned MW × 1.0 + Construction MW × 0.85 + Operational MW × 0.4) / Baseline Threshold)</code>
+          </div>
+          <div class="formula-box">
+            <p><strong>Power Pressure Score ($PPS$):</strong></p>
+            <code>PPS = 0.40 × Norm(RP) + 0.35 × Norm(AIP) + 0.25 × Norm(Burden Delta)</code>
+          </div>
+
+          <h3>3. Data Sources & Granularity</h3>
+          <p>
+            Data is acquired via Bright Data Scraper Studio across three primary public web domains:
+          </p>
+          <ul>
+            <li><strong>AI Infrastructure:</strong> aidatacenterindex.com & public project listings (346+ facilities across 64 countries).</li>
+            <li><strong>Utility Electricity Tariffs:</strong> globalpetrolprices.com & electricchoice.com (national and US state retail prices).</li>
+            <li><strong>Community Economics:</strong> numbeo.com cost-of-living index & US Census Bureau income benchmarks.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

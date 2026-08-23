@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-08-23T17:31:15.897Z",
+  "execution_duration_ms": 438934,
+  "collectors": [
+    {
+      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "name": "AI & Data Center Infrastructure",
+      "target_source": "aidatacenterindex.com",
+      "status": "HEALTHY",
+      "total_records": 164,
+      "valid_records": 164,
+      "anomalies_count": 0,
+      "freshness_status": "FRESH (Updated today)",
+      "schedule": "Daily"
+    },
+    {
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "name": "Residential Electricity Tariffs",
+      "target_source": "globalpetrolprices.com / findenergy.com",
+      "status": "HEALTHY",
+      "total_records": 509,
+      "valid_records": 507,
+      "anomalies_count": 2,
+      "freshness_status": "FRESH (Updated today)",
+      "schedule": "Daily / Weekly"
+    },
+    {
+      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "name": "Community Household Economics",
+      "target_source": "numbeo.com / city-data.com",
+      "status": "HEALTHY",
+      "total_records": 48,
+      "valid_records": 48,
+      "anomalies_count": 0,
+      "freshness_status": "FRESH (Updated this cycle)",
+      "schedule": "Monthly / Quarterly"
+    }
+  ],
+  "anomalies": [
+    {
+      "domain": "electricity",
+      "index": 442,
+      "utility": "Democratic Republic of the Congo National Electric Tariff (Aggregator Index)",
+      "anomalyIssues": [
+        {
+          "field": "residential_rate_cents_kwh",
+          "value": 166.61,
+          "reason": "Value outside expected range [0.5 - 150 cents/kWh]"
+        }
+      ]
+    },
+    {
+      "domain": "electricity",
+      "index": 448,
+      "utility": "Rwanda National Electric Tariff (Aggregator Index)",
+      "anomalyIssues": [
+        {
+          "field": "residential_rate_cents_kwh",
+          "value": 361.09,
+          "reason": "Value outside expected range [0.5 - 150 cents/kWh]"
+        }
+      ]
+    }
+  ],
+  "overall_health": "SYSTEM_DEGRADED_ANOMALIES_QUARANTINED"
+}

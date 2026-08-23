@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CommunityEconomicsRecord",
+  "description": "Schema contract for local household economic indicators collected via Bright Data",
+  "type": "object",
+  "required": [
+    "geography_id",
+    "country_code",
+    "region",
+    "median_household_income",
+    "income_growth_pct_12m",
+    "year",
+    "source_url"
+  ],
+  "properties": {
+    "geography_id": {
+      "type": "string",
+      "description": "FIPS code, NUTS code, or standardized geographic identifier"
+    },
+    "geography_name": {
+      "type": "string",
+      "description": "Human readable name of county, municipality, or district"
+    },
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "region": {
+      "type": "string",
+      "description": "State, province, or primary administrative unit"
+    },
+    "county": {
+      "type": ["string", "null"]
+    },
+    "median_household_income": {
+      "type": "number",
+      "minimum": 10000,
+      "maximum": 500000,
+      "description": "Annual median household income in USD or localized currency equivalent"
+    },
+    "previous_median_income": {
+      "type": ["number", "null"],
+      "minimum": 10000,
+      "maximum": 500000
+    },
+    "income_growth_pct_12m": {
+      "type": "number",
+      "description": "12-month percentage growth in median household income"
+    },
+    "poverty_rate_pct": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "maximum": 100
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 2020,
+      "maximum": 2030
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "retrieved_at": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

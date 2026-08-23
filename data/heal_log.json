@@ -1,0 +1,361 @@
+{
+  "summary": {
+    "total_runs": 14,
+    "successful_heals": 14,
+    "failed_heals": 0,
+    "manual_interventions": 0,
+    "last_heal_timestamp": "2026-08-23T18:40:19.067Z"
+  },
+  "events": [
+    {
+      "event_id": "heal_1787510419067",
+      "timestamp": "2026-08-23T18:40:19.067Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787509618190",
+      "timestamp": "2026-08-23T18:26:58.190Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787509436485",
+      "timestamp": "2026-08-23T18:23:56.485Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787509289866",
+      "timestamp": "2026-08-23T18:21:29.866Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787509123637",
+      "timestamp": "2026-08-23T18:18:43.637Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787508974991",
+      "timestamp": "2026-08-23T18:16:14.991Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787508567334",
+      "timestamp": "2026-08-23T18:09:27.334Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787508174514",
+      "timestamp": "2026-08-23T18:02:54.514Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787507467510",
+      "timestamp": "2026-08-23T17:51:07.510Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787506927341",
+      "timestamp": "2026-08-23T17:42:07.341Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787505824419",
+      "timestamp": "2026-08-23T17:23:44.419Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787498046981",
+      "timestamp": "2026-08-23T15:14:06.981Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787497704048",
+      "timestamp": "2026-08-23T14:45:10.120Z",
+      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "domain": "datacenters",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "capacity_mw",
+        "affected_records": 4,
+        "total_records": 50
+      },
+      "repair": {
+        "objective": "Update selector for capacity_mw to handle newly formatted gigawatt notation while maintaining numeric output contract.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 46,
+        "after_valid": 50,
+        "total": 50,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
+    {
+      "event_id": "heal_1787496521940",
+      "timestamp": "2026-08-23T13:20:05.412Z",
+      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "domain": "economics",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "average_monthly_net_salary_after_tax",
+        "affected_records": 3,
+        "total_records": 48
+      },
+      "repair": {
+        "objective": "Update salary table DOM parser on Numbeo cost of living index page to extract localized net salary correctly.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 45,
+        "after_valid": 48,
+        "total": 48,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    }
+  ]
+}

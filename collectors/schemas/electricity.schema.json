@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ElectricityPricingRecord",
+  "description": "Schema contract for residential utility electricity rates collected via Bright Data",
+  "type": "object",
+  "required": [
+    "utility_id",
+    "utility_name",
+    "country_code",
+    "region",
+    "residential_rate_cents_kwh",
+    "effective_date",
+    "source_url"
+  ],
+  "properties": {
+    "utility_id": {
+      "type": "string",
+      "description": "Unique identifier for the utility provider"
+    },
+    "utility_name": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Operating utility or electric cooperative name"
+    },
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$"
+    },
+    "region": {
+      "type": "string",
+      "description": "State or province"
+    },
+    "service_area_counties": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Counties served by this utility tariff"
+    },
+    "service_area_cities": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "residential_rate_cents_kwh": {
+      "type": "number",
+      "minimum": 1.0,
+      "maximum": 120.0,
+      "description": "Current effective residential rate in US Cents per Kilowatt-hour"
+    },
+    "previous_rate_cents_kwh": {
+      "type": ["number", "null"],
+      "minimum": 1.0,
+      "maximum": 120.0,
+      "description": "Rate from 12 months prior for delta calculation"
+    },
+    "rate_change_pct_12m": {
+      "type": ["number", "null"],
+      "description": "12-month percentage change in residential rate"
+    },
+    "avg_monthly_kwh_consumption": {
+      "type": ["number", "null"],
+      "description": "Average household monthly kWh usage in service territory"
+    },
+    "effective_date": {
+      "type": "string",
+      "description": "ISO date string of current rate schedule"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "retrieved_at": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

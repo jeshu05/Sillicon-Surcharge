@@ -1,0 +1,17 @@
+[
+  {
+    "facility_id": "fc_test_01",
+    "facility_name": "Test AI Mega-Cluster",
+    "operator": "Hyperscale Operator",
+    "country": "United States",
+    "country_code": "US",
+    "region": "Virginia",
+    "county": "Loudoun County",
+    "city": "Ashburn",
+    "capacity_mw": 500,
+    "status": "under_construction",
+    "source_url": "https://example.com/project",
+    "source_name": "Test Public Registry",
+    "retrieved_at": "2026-08-22T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "facility_id": "fc_broken_01",
+    "facility_name": "Broken Selector Project",
+    "country": "United States",
+    "country_code": "US",
+    "region": "Ohio",
+    "capacity_mw": null,
+    "status": null,
+    "source_url": "https://example.com/broken",
+    "retrieved_at": "2026-08-22T00:00:00.000Z"
+  }
+]

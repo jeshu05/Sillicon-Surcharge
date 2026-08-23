@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "WatchlistRegionItem",
+  "description": "Schema contract for final joined intelligence regions scored by Power Draw",
+  "type": "object",
+  "required": [
+    "region_id",
+    "name",
+    "country_code",
+    "state_province",
+    "coordinates",
+    "power_pressure_score",
+    "pressure_tier",
+    "rate_pressure_ratio",
+    "ai_load_capacity_mw",
+    "confidence_score",
+    "confidence_label",
+    "why_flagged",
+    "provenance"
+  ],
+  "properties": {
+    "region_id": { "type": "string" },
+    "name": { "type": "string" },
+    "county": { "type": ["string", "null"] },
+    "state_province": { "type": "string" },
+    "country": { "type": "string" },
+    "country_code": { "type": "string" },
+    "coordinates": {
+      "type": "object",
+      "required": ["lat", "lng"],
+      "properties": {
+        "lat": { "type": "number" },
+        "lng": { "type": "number" }
+      }
+    },
+    "power_pressure_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "pressure_tier": { "type": "string", "enum": ["CRITICAL", "ELEVATED", "WATCH", "STABLE"] },
+    "rate_pressure_ratio": { "type": "number" },
+    "electricity_rate_cents_kwh": { "type": "number" },
+    "electricity_rate_change_pct": { "type": "number" },
+    "median_income": { "type": "number" },
+    "income_growth_pct": { "type": "number" },
+    "annual_burden_pct": { "type": ["number", "null"] },
+    "burden_change_pct": { "type": ["number", "null"] },
+    "ai_load_capacity_mw": { "type": "number" },
+    "planned_mw": { "type": "number" },
+    "under_construction_mw": { "type": "number" },
+    "operational_mw": { "type": "number" },
+    "active_facility_count": { "type": "integer" },
+    "facilities": {
+      "type": "array",
+      "items": { "type": "object" }
+    },
+    "confidence_score": { "type": "number", "minimum": 0, "maximum": 100 },
+    "confidence_label": { "type": "string", "enum": ["HIGH", "MEDIUM", "LOW"] },
+    "geographic_match_type": { "type": "string" },
+    "why_flagged": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "provenance": { "type": "object" },
+    "last_updated": { "type": "string" }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DataCenterFacility",
+  "description": "Schema contract for AI and Hyperscale Data Center facilities collected via Bright Data",
+  "type": "object",
+  "required": [
+    "facility_id",
+    "facility_name",
+    "country",
+    "country_code",
+    "region",
+    "status",
+    "capacity_mw",
+    "source_url"
+  ],
+  "properties": {
+    "facility_id": {
+      "type": "string",
+      "description": "Unique identifier for the facility"
+    },
+    "facility_name": {
+      "type": "string",
+      "minLength": 2,
+      "description": "Name of the data center campus or project"
+    },
+    "operator": {
+      "type": ["string", "null"],
+      "description": "Operating entity (e.g. AWS, Microsoft, Vantage, QTS, Meta)"
+    },
+    "developer": {
+      "type": ["string", "null"],
+      "description": "Real estate / infrastructure developer entity"
+    },
+    "country": {
+      "type": "string",
+      "description": "Full country name"
+    },
+    "country_code": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 country code"
+    },
+    "region": {
+      "type": "string",
+      "description": "State, province, or primary sub-national administrative region"
+    },
+    "county": {
+      "type": ["string", "null"],
+      "description": "County or local district division"
+    },
+    "city": {
+      "type": ["string", "null"],
+      "description": "City or municipality"
+    },
+    "latitude": {
+      "type": ["number", "null"],
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": ["number", "null"],
+      "minimum": -180,
+      "maximum": 180
+    },
+    "capacity_mw": {
+      "type": "number",
+      "minimum": 0.1,
+      "maximum": 10000.0,
+      "description": "Normalized power draw capacity in Megawatts (MW)"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["planned", "under_construction", "operational", "expansion", "decommissioned"],
+      "description": "Current lifecycle phase of facility"
+    },
+    "announcement_date": {
+      "type": ["string", "null"],
+      "description": "ISO date string or year of announcement"
+    },
+    "expected_operation_date": {
+      "type": ["string", "null"],
+      "description": "Target live operational year or date"
+    },
+    "ai_association": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"],
+      "description": "Level of AI workload specialization (dedicated GPU clusters vs general cloud)"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Public web URL where the record was retrieved"
+    },
+    "source_name": {
+      "type": "string",
+      "description": "Name of publication, planning registry, or directory"
+    },
+    "retrieved_at": {
+      "type": "string",
+      "description": "ISO 8601 retrieval timestamp"
+    }
+  },
+  "additionalProperties": true
+}
