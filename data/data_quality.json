@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T17:31:15.897Z",
-  "execution_duration_ms": 438934,
+  "generated_at": "2026-08-24T03:42:09.312Z",
+  "execution_duration_ms": 3352,
   "collectors": [
     {
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "name": "AI & Data Center Infrastructure",
       "target_source": "aidatacenterindex.com",
       "status": "HEALTHY",
@@ -14,18 +14,18 @@
       "schedule": "Daily"
     },
     {
-      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "collector_id": "c_pd_electricity_02",
       "name": "Residential Electricity Tariffs",
       "target_source": "globalpetrolprices.com / findenergy.com",
       "status": "HEALTHY",
-      "total_records": 509,
-      "valid_records": 507,
+      "total_records": 560,
+      "valid_records": 558,
       "anomalies_count": 2,
       "freshness_status": "FRESH (Updated today)",
       "schedule": "Daily / Weekly"
     },
     {
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "name": "Community Household Economics",
       "target_source": "numbeo.com / city-data.com",
       "status": "HEALTHY",

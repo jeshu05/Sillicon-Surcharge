@@ -1,7 +1,7 @@
 {
   "metadata": {
     "description": "Multi-year historical snapshots dynamically computed from live ingestion pipeline",
-    "last_updated": "2026-08-23T17:31:15.891Z",
+    "last_updated": "2026-08-24T03:42:09.310Z",
     "monitored_regions_count": 83
   },
   "regions": {
@@ -35,7 +35,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 14.2,
         "median_income": 41200,
         "ai_capacity_mw": 10000,
@@ -73,7 +73,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 18.4,
         "median_income": 61800,
         "ai_capacity_mw": 4675,
@@ -111,7 +111,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 17.24,
         "median_income": 74200,
         "ai_capacity_mw": 8768,
@@ -149,7 +149,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 16.2,
         "median_income": 64200,
         "ai_capacity_mw": 5400,
@@ -187,7 +187,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 17.8,
         "median_income": 68500,
         "ai_capacity_mw": 7502,
@@ -225,7 +225,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 14.1,
         "median_income": 62100,
         "ai_capacity_mw": 4000,
@@ -263,7 +263,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 14.9,
         "median_income": 71800,
         "ai_capacity_mw": 7600,
@@ -301,7 +301,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 15.82,
         "median_income": 170500,
         "ai_capacity_mw": 6070,
@@ -339,7 +339,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 45,
         "median_income": 64200,
         "ai_capacity_mw": 2558,
@@ -377,7 +377,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 27.6,
         "median_income": 54200,
         "ai_capacity_mw": 12680,
@@ -415,7 +415,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.7,
         "median_income": 49800,
         "ai_capacity_mw": 6250,
@@ -453,7 +453,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 16.27,
         "median_income": 0,
         "ai_capacity_mw": 3135,
@@ -491,7 +491,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.3,
         "median_income": 74800,
         "ai_capacity_mw": 12000,
@@ -529,7 +529,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 22.7,
         "median_income": 49500,
         "ai_capacity_mw": 2170,
@@ -567,7 +567,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 16.4,
         "median_income": 24500,
         "ai_capacity_mw": 6250,
@@ -605,7 +605,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 40.2,
         "median_income": 54800,
         "ai_capacity_mw": 2510,
@@ -643,7 +643,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 20.9,
         "median_income": 24200,
         "ai_capacity_mw": 700,
@@ -681,7 +681,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 16.45,
         "median_income": 82500,
         "ai_capacity_mw": 1400,
@@ -719,7 +719,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 15.84,
         "median_income": 0,
         "ai_capacity_mw": 900,
@@ -757,7 +757,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 8.6,
         "median_income": 96000,
         "ai_capacity_mw": 10000,
@@ -795,7 +795,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 14.14,
         "median_income": 0,
         "ai_capacity_mw": 1465,
@@ -833,7 +833,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.96,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -871,7 +871,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 5.2,
         "median_income": 78500,
         "ai_capacity_mw": 4480,
@@ -909,7 +909,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 24.3,
         "median_income": 58900,
         "ai_capacity_mw": 980,
@@ -947,7 +947,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 33.25,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -985,7 +985,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 23.85,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -1023,7 +1023,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 13.6,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -1061,7 +1061,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 15.09,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -1099,7 +1099,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 40.6,
         "median_income": 59800,
         "ai_capacity_mw": 1460,
@@ -1137,7 +1137,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 25.9,
         "median_income": 78200,
         "ai_capacity_mw": 1520,
@@ -1175,7 +1175,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 20.4,
         "median_income": 26800,
         "ai_capacity_mw": 200,
@@ -1213,7 +1213,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 16.5,
         "median_income": 76500,
         "ai_capacity_mw": 550,
@@ -1251,7 +1251,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 5,
         "median_income": 26400,
         "ai_capacity_mw": 2700,
@@ -1289,7 +1289,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 27.8,
         "median_income": 73500,
         "ai_capacity_mw": 1304,
@@ -1327,7 +1327,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 22.8,
         "median_income": 29500,
         "ai_capacity_mw": 380,
@@ -1365,7 +1365,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 7.7,
         "median_income": 18500,
         "ai_capacity_mw": 2250,
@@ -1403,7 +1403,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.1,
         "median_income": 17400,
         "ai_capacity_mw": 1450,
@@ -1441,7 +1441,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 3.6,
         "median_income": 11800,
         "ai_capacity_mw": 120,
@@ -1479,7 +1479,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 25.5,
         "median_income": 42600,
         "ai_capacity_mw": 350,
@@ -1517,7 +1517,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 10.9,
         "median_income": 22400,
         "ai_capacity_mw": 1600,
@@ -1555,7 +1555,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 7.8,
         "median_income": 22800,
         "ai_capacity_mw": 2400,
@@ -1593,7 +1593,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 23.6,
         "median_income": 36500,
         "ai_capacity_mw": 1000,
@@ -1631,7 +1631,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 28.6,
         "median_income": 63200,
         "ai_capacity_mw": 720,
@@ -1669,7 +1669,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 21.9,
         "median_income": 14200,
         "ai_capacity_mw": 150,
@@ -1707,7 +1707,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.2,
         "median_income": 44200,
         "ai_capacity_mw": 750,
@@ -1745,7 +1745,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 23.3,
         "median_income": 94500,
         "ai_capacity_mw": 730,
@@ -1783,7 +1783,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 9,
         "median_income": 16800,
         "ai_capacity_mw": 1250,
@@ -1821,7 +1821,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 1500,
@@ -1859,7 +1859,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 2690,
@@ -1897,7 +1897,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 6.9,
         "median_income": 28400,
         "ai_capacity_mw": 1140,
@@ -1935,7 +1935,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 11.2,
         "median_income": 16200,
         "ai_capacity_mw": 350,
@@ -1973,7 +1973,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 7.6,
         "median_income": 31200,
         "ai_capacity_mw": 1650,
@@ -2011,7 +2011,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 2.3,
         "median_income": 9800,
         "ai_capacity_mw": 160,
@@ -2049,7 +2049,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 12.8,
         "median_income": 19800,
         "ai_capacity_mw": 280,
@@ -2087,7 +2087,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 11.2,
         "median_income": 34500,
         "ai_capacity_mw": 1000,
@@ -2125,7 +2125,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 1000,
@@ -2163,7 +2163,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 600,
@@ -2239,7 +2239,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 1000,
@@ -2277,7 +2277,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -2315,7 +2315,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -2467,7 +2467,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -2505,7 +2505,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 400,
@@ -2543,7 +2543,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -2619,7 +2619,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -2733,7 +2733,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 350,
@@ -2771,7 +2771,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -2885,7 +2885,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -2961,7 +2961,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 600,
@@ -3037,7 +3037,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -3075,7 +3075,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -3113,7 +3113,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -3151,7 +3151,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 0,
@@ -3227,7 +3227,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 500,
@@ -3303,7 +3303,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 400,
@@ -3341,7 +3341,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -3379,7 +3379,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -3417,7 +3417,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -3455,7 +3455,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -3493,7 +3493,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 300,
@@ -3531,7 +3531,7 @@
       },
       {
         "year": 2026,
-        "date": "2026-08-23",
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 250,
@@ -3570,6 +3570,120 @@
       {
         "year": 2026,
         "date": "2026-08-23",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 280,
+        "power_pressure_score": 29,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "fi-ban-bangkok": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 98,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 300,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-24",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 400,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "fi-ban-banchan": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 49,
+        "power_pressure_score": 12,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 99,
+        "power_pressure_score": 18,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 303,
+        "power_pressure_score": 25,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-24",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 404,
+        "power_pressure_score": 31,
+        "event": "Current Monitoring Cycle: Active Infrastructure & Tariff Convergence Observability"
+      }
+    ],
+    "ch-inv-invercar": [
+      {
+        "year": 2023,
+        "date": "2023-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 34,
+        "power_pressure_score": 11,
+        "event": "Baseline Grid Interconnection Filings & Initial Land Acquisition"
+      },
+      {
+        "year": 2024,
+        "date": "2024-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 69,
+        "power_pressure_score": 17,
+        "event": "Initial Substation Expansion; Rate Case Adjustment Docket Initiated"
+      },
+      {
+        "year": 2025,
+        "date": "2025-12-31",
+        "rate_cents_kwh": 0,
+        "median_income": 0,
+        "ai_capacity_mw": 210,
+        "power_pressure_score": 23,
+        "event": "Transmission Infrastructure Expansion; Multi-Cluster Campus Groundbreakings"
+      },
+      {
+        "year": 2026,
+        "date": "2026-08-24",
         "rate_cents_kwh": 0,
         "median_income": 0,
         "ai_capacity_mw": 280,

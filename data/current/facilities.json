@@ -23,17 +23,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_cbb2e18119d0ad751dd15098fed0263bea5764e6ff2c0f88fd38905062ce9d9f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -61,17 +61,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_47ca4c18976e8bee6102e89f4704d15b1bc1677d448731b6171b02424a4562ed",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -99,17 +99,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_ee6040e43738907898869a33ebdb153007099316d423fb8090c0fae9188aa52b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -137,17 +137,17 @@
     "provenance": {
       "source_name": "blackridgeresearch.com",
       "source_url": "https://www.blackridgeresearch.com/blog/upcoming-largest-data-center-projects-in-united-states-usa",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_c89f00b676c9043d0dc4b77d937cefb1f18bbdc468ec64810f11bce39f452b73",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -175,17 +175,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_bf8875fb121b49396b555cd752a1d31b5026a2cdc7bd7d3665cd56b5f85a22f5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -213,17 +213,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_bb57fc8f74507ee82c62356dec25a371dd79862ddf970fa58e332f9b17610344",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -251,17 +251,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-vistra-nuclear-uprate-agreement-oh-pa.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_b654a4a308111b0a7bbc93ec9b6c29011fc6df3b729ce7a92a2e501b2919a8d1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -289,17 +289,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_f3477722ef116dff641eb4874c39a77bb44482ab287b09523c96b0ee3d437169",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -327,17 +327,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_9adaee3b692396276b867c864d6daae45c3c6e77ea5b18f7dea56fd2543bc390",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -365,17 +365,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/crusoe-lancium-abilene-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_ca31dd14456c36b29b14003d876eac84e1bc73258c67e17493d3cad4ce6b2b40",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -403,17 +403,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-hyperion-ai-data-center-louisiana.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_cde4c06b0aa1dfc60212ca3bd2ce561c6eebb14677665f4b3df8f053615a167d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -441,17 +441,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-project-fairwater-wisconsin.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_4ae68569b7519af80f969d623bd494171f959f4e539b088da10df586828b2b9b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -479,17 +479,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-project-rainier-ai-campus-indiana.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_7520bf9ae3e9361907b18685aece10857eb71c26987abf11a1c598b5662423a2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -517,17 +517,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/xai-gigascale-data-center-tennessee-mississippi.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_c0229640ad526d6a74c8ab6f1c7ed0f69a453657d6d0ae9d6bf0d5aaef1183d2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -555,17 +555,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-ai-innovation-campuses-pennsylvania.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_50ae3bf451b4583f1c13cffc5637df372ae8465564fe465dd3de19d40905b12b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -593,17 +593,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_9050a261b1007ee5f601af2274b5441998b6cd3030a7456a649d15dbcaf79cff",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -631,17 +631,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_a3eaee922368ea9dbb62cfdda844421e4fec0d0517f14bc72ed2e97f89584a2e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -669,17 +669,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_53e33e6df2efce8bba0eaccf036c031e0aff95352cd4cd00c9cdb2702682a045",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -707,17 +707,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_2819904738622b3aa92ef1495938e9dbea0440b6c3a7a147cb56a59778aebc3a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -745,17 +745,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_815c5ca059365a5041d510af685bb08f816f15ac9cc0c02222e12d557bc032af",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -783,17 +783,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_727cc3b3f5213728422e9a2afe96ab41098ccf0faa95cd443751faafbad49f39",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -821,17 +821,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_a1e5e376d0881750e81061d520aa81463cf8dd950a0dfe1be09536cccd77dddf",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -859,17 +859,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/softbank-france-ai-data-center-capacity-program.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_5a9649748322d2269400299a657fe9e004b6dc42335a73ea1e7f88aabde4b5d5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -897,17 +897,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_879ee43d4a637afc2d8745acee547c90c83333f765a890fbe168e6947fbbcf4f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -935,17 +935,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_e5d8e4a77c2ece1b47ead1c1439e5990f1525bca3d46c4b5bdc35eb33f2ad46c",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -973,17 +973,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_7736a7f40a3330fb3d0f222780e6bff1e3b52e40eba0c2617d1303876915ff14",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1011,17 +1011,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_c34ff5cece267a3a62a6c51ea3d35381f1208db9fdff676f619800ef898c8864",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1049,17 +1049,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/g42-uae-us-ai-campus-abu-dhabi.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_2c4a26e39ea419cf1720fd236c8f559edf54aab7f1680d25f3f98b84e3a9aab0",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1087,17 +1087,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_5a530a91cd2a2b744851b41879c8f413bcc348fda7bb31f22fa2ec4004de5cb6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1125,17 +1125,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_03059916176499898769130ab2a3fa424999560cc104dfcd900e6e6e3d6430ed",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1163,17 +1163,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_b9243ae47cb10bb761c7f63093d5ae14d22ca9809c8be71ad984e4d4703a6a4b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1201,17 +1201,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/stock-farm-road-ai-data-center-south-korea.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_b06d6880bcb469535125c5e0d9cb46be220d5fc717bf912ffddb8aa2d4f3c5ff",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1239,17 +1239,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_31d7456de5703d9853c3f33cb4e9a49f4ec79508bbe7b367f28fdb2c13eda553",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1277,17 +1277,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_fc16e1d558dba752e6766d65ff706e567f27865fbd5ce059cbcebc67fbe8358d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1315,17 +1315,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_551ad6fe9c713f5264a3f2d6be8805603d335616fa8e4a5b9249c757eb7494e3",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1353,17 +1353,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_6cc9111339bd628af7ca629de7e5c34aa9f56b879c76dfd7d5ad21ff84eb754f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1391,17 +1391,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_bb6d57885f80f3b613489ba552e110bc2adbade75f9d14b8d2790a921705cf79",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1429,17 +1429,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_c5cd88fb85d75ff2f54b4015b7529cc040ee670c1759495461d8a4dd371600b1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1467,17 +1467,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_85d92bdcadeb36dea5295345761afbefc9e4d9398554353c7036ab4480028f2d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1505,17 +1505,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_ceb4211deb60467f340336a052214a086bbd651330912b27777f5f87ffb58914",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1543,17 +1543,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_2b12e915e97632f48bb128a568e19846803408f76da14177d5ba943e56828734",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1581,17 +1581,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_dd2f198749144f8f57dcbcf23053fe251752387e305d7c79074c1a9977bc741f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1619,17 +1619,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_4512e5419dfed7345fcfccb899776583eedee59984b106acfde124aa81b37632",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1657,17 +1657,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_f0447b4e55df6930946c20cad1707e43fe397c66faca3b435e807b6d5b351dee",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1695,17 +1695,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_e1d5b7a8b2802cfea6832e474774dd9a7f2b999ed75922f22f62de690f5fa8d8",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1733,17 +1733,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_0029433899f144040eb32c847cca060894b9f133741dd6de392575dffd6c9ed3",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1771,17 +1771,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_434cb0671e8bb15cd55573c47bd16201005408480883d389ddca648c2cc866d0",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1809,17 +1809,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_eb4a0502d4e55a7c783b8cb461eac3f68b5688b99571e85c41528d658d1165b7",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1847,17 +1847,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_702e44412635ff2d869274bda560c1560c7ef4eb5bb2a4a232258de0040706d8",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1885,17 +1885,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_a83bf360cdfd4180ff1c88b36e8eeabe5895f8fce4b098197ecfddf6719ab0f8",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1923,17 +1923,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_41d3478a6fbe00697f297fa7f6ea66105798f4c56a3d05a0ea99ca020c4ab7d7",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1961,17 +1961,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_3085a39c301515f8c862879d3205b260c1dceafa4cc47102e7e453a85303b021",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -1999,17 +1999,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_fd0dfd70c8c7337d4ee0d9cd10d75dbf39b92b794d8f6b997457a9f2fda9fc9b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2037,17 +2037,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_2f22ff63512fee0816302b201e3a427d5322f8ddb749d4520c3d2d0f20e31184",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2075,17 +2075,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_23ce131e84b8ac4bbe72a104adb9be150d1959b051be1b777d942f9486010517",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2113,17 +2113,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_827d4d462139f07516a1a741c3f45d56d6d9c755441956e6dff3af1f2027e9f5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2151,17 +2151,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_73ddb4643999ca717a788daae397fd1b7fa372522126e70c8b108ffedb0ab081",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2189,17 +2189,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_8d246d7d0b33927338306cbaf24fb787a298ac0d0f2eba47e1024de4f6fb90e1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2227,17 +2227,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_5b5daf81fc729d05f6a1a4068dd6d14e5c7c70b650b1a4710ea7692f087141be",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2265,17 +2265,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_c9b90081fcb0bf37805a5fff3a323a723fb8e7b2677d94d82589cdff371c9788",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2303,17 +2303,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_2de73240536324696e9afa0aece9aad5f18a0896e7e8193a974e0d9dee6bbfd6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2341,17 +2341,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_6b25072a9c6be003d7fc94f1885f11e5f96b342a7bb86e6b59d56d7f3ce4a4b5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2379,17 +2379,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T11:14:20.972Z",
       "provenance_hash": "pd_852b2acf0f71152cff8fcf870d82dc2b03f619318bb30f89657766b52178eb35",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2413,21 +2413,21 @@
     "ai_association": "unknown",
     "source_url": "https://aidatacenterindex.com/datacenters/scala-ai-city-eldorado-do-sul-brazil.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/scala-ai-city-eldorado-do-sul-brazil.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_4dc625ee6dba8e2e2eeb68b8cbc93293305a222384b152451f77e982019702fa",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_2ef9269b565a56622187670f2aeb710b941b04a32cca2c408c6de70f53cc221f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2451,21 +2451,21 @@
     "ai_association": "unknown",
     "source_url": "https://aidatacenterindex.com/datacenters/elea-rio-ai-city-brazil.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/elea-rio-ai-city-brazil.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_5bb5c32219d934b4719f1d058c4068bf3786f77c88793f7d9b81a2d3039eef4b",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_68cfea97589b832092a7b3b04ba4644b188dec745c0a02dbf0c5ed0aeb5a2547",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2489,21 +2489,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/wonder-valley-off-grid-ai-data-center-park.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.707Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/wonder-valley-off-grid-ai-data-center-park.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.707Z",
-      "provenance_hash": "pd_ffe381e46a1dded06d75e4301b0f8a31b3fb60e115e11822d45c93d0b0f03850",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_0db930c52a1c6538bd96a4deb829dfe22c94ffe275e209232ac44732b4f16bd3",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2527,21 +2527,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/beacon-ai-alberta-hyperscale-campuses.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/beacon-ai-alberta-hyperscale-campuses.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_2d14c907342da8844443f6812afbdb75498ba95838d467479fb56c937e8f6c29",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_606eb56403f64ceee3cb0f6e2162127630c99fd25511a5e9604f55061307f45e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2569,17 +2569,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-papillion-nebraska-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_89a53bdb908d9f8ab221f500b00b82d5b04880fc31133836340140eece9e5574",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2607,17 +2607,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-san-antonio-texas-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_94981471d22e2f83d8f95b0080a01d9abbb43eb5be2b9b75ca900e8bda87d9f2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2645,17 +2645,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-ireland-north-europe.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_a8281b3a3b6b5f4383fbcd2e48d62ecfd7d0ee56ea89da0d64e5eab5ea53483b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2679,21 +2679,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/neom-oxagon-net-zero-ai-data-center.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/neom-oxagon-net-zero-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_54801ac71fd7120b1cdcf8fa608623133da0b19f0ff09ecb01a99eb3dcf7929d",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_9594c3bc32b2b1dcad89272f0c5a14a40670ed561d2f2488bc13189b61546393",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2717,21 +2717,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/vistra-comanche-peak-nuclear-power-plant-expansion.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/vistra-comanche-peak-nuclear-power-plant-expansion.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_e7174fc0d21968ef6e9caea0c6eac3414b3a172f4afe02355e5c8c5c1e79ae6b",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_ef4e206c6631743e635cb22b378903062a8ffd4c9ac51d86f56bf9060cce1421",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2755,21 +2755,21 @@
     "ai_association": "unknown",
     "source_url": "https://aidatacenterindex.com/datacenters/softbank-france-ai-data-center-capacity-program.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/softbank-france-ai-data-center-capacity-program.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_1fcc9d72f2fd5c6e5444c34becfc944eda561efb4b458f3eca02b0bf15f037e0",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_ad6f435692478cd2cf8142dcd55eebc41df27739483d9a8d30ee413cb045735e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2793,21 +2793,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/nextera-duane-arnold-nuclear-plant-reactivation.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/nextera-duane-arnold-nuclear-plant-reactivation.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_a74bc94b5ffcf3ea70d37f105863e0e7d1b8c766649d30a93aac82b82fbc8852",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_7e44a8e35ca2679776367fcb928b91b914706e4f96a6030311c48762d6911f46",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2831,21 +2831,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/stock-farm-road-ai-data-center-south-korea.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/stock-farm-road-ai-data-center-south-korea.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_a68a46ae318aab7efc258f96b14512439305f4d0a931d9721d0bf7d7f31d79e6",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_739c0868245a18664ec88d7498f7b6e6cc2020e16f5392a494a7693677843044",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2855,7 +2855,7 @@
     "operator": "AirTrunk",
     "developer": "AirTrunk",
     "country": "Australia",
-    "country_code": "AT",
+    "country_code": "US",
     "region": "Melbourne, Victoria, Australia",
     "county": "Melbourne, Victoria, Australia",
     "city": "Melbourne, Victoria, Australia",
@@ -2873,17 +2873,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/airtrunk-mel2-melbourne-hyperscale-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_7ef268cc82a3c25a1ac0a22731b56c5ecc3f824077246b00a5fed55218121798",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2907,21 +2907,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/google-iowa-council-bluffs-ai-data-center.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-iowa-council-bluffs-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_d040ea7de6b839a54139bfa5208b77d8d9590dd3bec8ff542caa1f127d45bc63",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_b0efb5098f479f34288066b6a01e72fbad1ba3019c710dfb15444d3d42b4f399",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2945,21 +2945,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/alibaba-cloud-zhangbei-ai-data-center-china.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/alibaba-cloud-zhangbei-ai-data-center-china.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_ba18ccb68fe6bfb67072a6941ab0afe2b8c69a4dc28e8e4214bd794e8f0a1ad8",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_8a66049513ab8610c57feda38e2ed94a5c1b85cb6427b15915eb5ad4f35f1c62",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -2983,21 +2983,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-brazil-sao-paulo-expansion.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-brazil-sao-paulo-expansion.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_fe7f6d96853e9f023d0c9fda733bf501b8afdaacb4243a51627df7b9ecea223b",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_6554763966b53b7874e8816940972b841cf60a878680e83ed0e959c4140c8d7b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3025,17 +3025,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/oracle-malaysia-public-cloud-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_b7eb12970de07c3d8a19dd7203e7665840e6554f6542b43d621801d2dd9d3c23",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3059,21 +3059,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-lebanon-indiana-ai-campus.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-lebanon-indiana-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_91f4764ddf2c763ceb1bc9b8bdf048048a8833dd9ae10e8d5cc469af1af90392",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_d5298bfb34418d887a9cf6b9b880d3e48a777a00d75a35b644fd25876f6c7ff5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3101,17 +3101,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-indonesia-cloud-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.355Z",
       "provenance_hash": "pd_cac50c7cd775422b2c9e635d8f465066a8d6d67612ddd219196c0f923c08e099",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3135,21 +3135,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/three-mile-island-reactivation.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/three-mile-island-reactivation.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_f52550a298895d9902c012af7a0afbc93be20b695ef93a0ebfa41bd883f12625",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_28767edb366e47baa34cfe11f34a6cb412897e73307dd8d123b6c78945d4ba15",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3177,17 +3177,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-altoona-iowa-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_b3e0a0fd91ada5f7aa9f7525efdeb10308aa5253be0c000814ce9725c538eb5f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3215,17 +3215,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/damac-laguna-ai-data-center-philippines.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_bc9a6bc552cea818de3fb78ec682fa578a0b5623377724a867c71ddc6e14a9e6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3253,17 +3253,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/airtrunk-tok1-ai-expansion-tokyo.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_ba84e943443eeb9fd7c9b4cb1fbbd11de0e8e547dc14b58b018368ad18d4c748",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3291,17 +3291,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-aragon-ai-campus-spain.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_501087e4f9be8baa9d7a28b3047f78b1236d56815a8665aaf2fb7c88cdf5a051",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3325,21 +3325,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-uk-south-london.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-uk-south-london.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_e420de3231076fcc5e80c54d4337297757b29d26864fdbd7aa21d136853634e3",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_9ed629442aceeb4b5ed57605ff68df7e294cd7767cec5b43f7483a8cc1f9d39e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3367,17 +3367,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/bulk-data-centers-n01-ai-campus-norway.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_f0b6bc96bf676d801846b0226cc3d6737c898bfee788c8b59a4093de43ab37db",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3405,17 +3405,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-odense-denmark-ai-ready-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_db6b969cba9476bdcab520ff321daeb5b045741de6c9b72d522f460fd2ed5819",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3439,21 +3439,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/google-kairos-power-ai-data-center-initiative.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-kairos-power-ai-data-center-initiative.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_08d77a4ba64f348346aaeb501bb6c977b8993e97f4690a41d1b3285d6231fe1b",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_ae0bfb9e9f808369a652fefadb73d27c959ed5400710a451dde39903893728d2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3481,17 +3481,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-london-uk-south-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_8539ed6ab67c580ee955d0f852e15566dde46e9776a6ed2f7761982960b60401",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3515,21 +3515,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-port-washington-wisconsin-stargate.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-port-washington-wisconsin-stargate.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_6304973062472c9c8ee0a7d126ca01793242b06e05734388dad710a4f082971c",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_6c33f20bf91e7b7fe110a7470b98825321ea688ebf429969f12345dd6913718f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3557,17 +3557,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-malaysia-ai-cloud.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_d64db1a2afd8ed9d257037077397d15199cbe5d2d323b8875630f5b0a529ef6f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3595,17 +3595,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-lulea-ai-data-center-sweden.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_33aa7186572c1bd28cb900a19bfd69c7bdc3f4f2d30f5e35ed1b6c6bc57be40e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3615,7 +3615,7 @@
     "operator": "Amazon Web Services",
     "developer": "Amazon Web Services",
     "country": "Australia",
-    "country_code": "AT",
+    "country_code": "US",
     "region": "Sydney, New South Wales, Australia",
     "county": "Sydney, New South Wales, Australia",
     "city": "Sydney, New South Wales, Australia",
@@ -3633,17 +3633,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-sydney-ap-southeast-2-australia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_427ab6176d997901a839a6582d98eca322da2fe950b4f34eacb8abe24da24c15",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3671,17 +3671,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-sweden-central-ai-infrastructure.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_27c2319d4bcbf27a41259fa61e14d25590ba52da2ab6917f866459652755b39a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3709,17 +3709,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-mexico-cloud-region-queretaro.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_8c06b0d542d4db6269315ed3bb6383ef3e1909574c343837a281fbb11f0ea9ad",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3747,17 +3747,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/digital-realty-uk-mega-campus-ai.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_610b794e72daf2a50164426983d2ec429bdad434590d23c401be53bf2b029655",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3785,17 +3785,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-south-carolina-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_d48dfcf91ce8233513784cad14f2099ef81b3a1546d5657272e9894ecc5607c9",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3805,7 +3805,7 @@
     "operator": "ByteDance, TikTok",
     "developer": "ByteDance, TikTok",
     "country": "Thailand",
-    "country_code": "NL",
+    "country_code": "FI",
     "region": "Bangkok, Bangkok / Chonburi, Thailand",
     "county": "Bangkok, Bangkok / Chonburi, Thailand",
     "city": "Bangkok, Bangkok / Chonburi, Thailand",
@@ -3823,17 +3823,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/bytedance-thailand-ai-data-hub.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_97e8de14e32adee07cf0425260e6b4a65e8391e30b587a97ef73002d9f325753",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3857,21 +3857,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/mgx-mistral-ai-campus-paris-region.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/mgx-mistral-ai-campus-paris-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_14735131634cb365c19e16e38c9adaf58cd1f25906a0253ed6ab3084fd72648f",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_ed8c2941ce37029df4c35c90509de47f8fb1a9831534396b59aaf5b04d383337",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3895,21 +3895,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-project-prometheus-ohio-ai-campus.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-project-prometheus-ohio-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_73f790a9afe7ef5eba07c59f00b160e036c713c2335f6c39116cf589c698afff",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_342425adf57418492531b9fc488d2ae972037a980aa6c66c620279432d3cac97",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3933,21 +3933,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/digital-edge-cgk-ai-mega-campus-indonesia.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/digital-edge-cgk-ai-mega-campus-indonesia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_ceb1347294410eecbbf909016e6cd493b47722a8bddca161e0b2031039f37bab",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_b72cd82227b9d9aa71779dfed4dbc6ba1e35f0f0e19644d4e104aab86b3d103a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -3971,21 +3971,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-el-paso-ai-mega-campus-texas.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-el-paso-ai-mega-campus-texas.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_2f3c8aa2ff5702071b36b3d3c3a6a4003ad8536fab3972718f1ba802c07776a6",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_a613b0478cfc6bc1fc76adc8221f0f1890b9d0722f9179063971fb216a6ec63a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4009,21 +4009,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/openai-stargate-data-center-texas.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/openai-stargate-data-center-texas.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_f91cd43f9100e25926a0cd3f33f7feb1660ac8e34a28035580350e666f700f2f",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_b56af2f8a29ec641301514c2977c16ae19a2770d47ae69fe6b9619856d3de210",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4047,21 +4047,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-vistra-nuclear-uprate-agreement-oh-pa.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-vistra-nuclear-uprate-agreement-oh-pa.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_b3ca352a14312fcf131d6f3b7e2647efa6a16197a712616418f4d3116043b4e6",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_26dea6c4db00ea20c5cbf62a0fabeac15de32a674d4faf382cfee2e103108869",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4089,17 +4089,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-the-dalles-oregon-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_d067f49966e668fc074b8a5dae6569b87e03ed1b16cf693103a2c747bee43d7c",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4123,21 +4123,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/ekibastuz-ai-data-center-valley-kazakhstan.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/ekibastuz-ai-data-center-valley-kazakhstan.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_196e169bb577d7c99f0f09cee5f524d8f07dcc7fe8d1d5c80fa91bc635f4aacc",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_c8eab7a7043c8f2c4a117d900ca36d0711f23aca76f5205d715aec992830e316",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4161,21 +4161,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/google-pryor-oklahoma-ai-data-center.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-pryor-oklahoma-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_52d9028bb48d1a7d484a7fe29566be7dd3b70ba4df412249080bf722ecb67965",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_cad2ee5d3975856c363b31aa11282711138021ac90317b3f5ec5ae9d1eb11836",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4203,17 +4203,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/ytl-nvidia-johor-ai-cloud-malaysia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_91e181aadfd22fee16c2d37d24cbe85fe1e3f831102064b053ce543c7eb30c69",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4241,17 +4241,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/huawei-cloud-guizhou-ai-data-center-china.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.355Z",
       "provenance_hash": "pd_6747ecf39285ec903ff2a2918b033feef8273207f4fea259b47a3b47a106fa47",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4275,21 +4275,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/aws-ai-innovation-campuses-pennsylvania.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-ai-innovation-campuses-pennsylvania.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_908284ad89d1ade8af028e38e0e0e78b89658b47fd95ace1aed4fb0fff6da229",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_cd0ab39a43adf080152d764dcf94a5a6984702f0c53b433e3bb1d629121df583",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4299,7 +4299,7 @@
     "operator": "Datagrid New Zealand",
     "developer": "Datagrid New Zealand",
     "country": "New Zealand",
-    "country_code": "TZ",
+    "country_code": "CH",
     "region": "Invercargill, Southland, New Zealand",
     "county": "Invercargill, Southland, New Zealand",
     "city": "Invercargill, Southland, New Zealand",
@@ -4317,17 +4317,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/datagrid-ai-factory-southland-new-zealand.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_81894b551d6342979cf21416d111e543ed6dac37735d80cac004578d7b645c19",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4355,17 +4355,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-prineville-oregon-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_45ef8166f76ef88092beb3957e9d1971dc6dff62db7171a3273795e94ee0107e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4393,17 +4393,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-mexico-central-region-queretaro.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_dc5e403b84322d0b5ec883655603316042006ccaf50f3254711f675abd6ca526",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4427,21 +4427,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-eagle-mountain-utah-ai-campus.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-eagle-mountain-utah-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_dabea808bd707087b37ebb81f98043cf778eadcc9f60a08c9c422a0aec1cfd4f",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_aea0562585685f726c4eb84452b2981a2dde0347164537c455256a7a6422ca12",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4451,7 +4451,7 @@
     "operator": "Amazon Web Services",
     "developer": "Amazon Web Services",
     "country": "South Korea",
-    "country_code": "UA",
+    "country_code": "LT",
     "region": "Seoul, Seoul Capital Area, South Korea",
     "county": "Seoul, Seoul Capital Area, South Korea",
     "city": "Seoul, Seoul Capital Area, South Korea",
@@ -4469,17 +4469,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-seoul-ap-northeast-2-south-korea.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_98b14dc0ab6158c1da5d36cd7eff6279f349f68cab534863bc992b0c7f953152",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4507,17 +4507,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-malaysia-cloud-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_7073ed050c9ad6a7851ddfdb9cdaec7f13137f344527217682a4c61399a4c2af",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4541,21 +4541,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/romania-black-sea-ai-gigafactory.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/romania-black-sea-ai-gigafactory.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_a4b708d6c3164c8d756c8cc81b5d7919b0161e5f74f8e322654a25e2520992e9",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_6ede3f50c879e433c273ad5c1ba8cfa8f54f92032e14de92b7a5c07c5242a3be",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4583,17 +4583,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/hexagon-data-center-riyadh.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_d2183c1e6fd5c100ad9ed6bfc2dcd24515902dd96e05d9651da70a0f25d2cd5a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4621,17 +4621,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-singapore-ap-southeast-1.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_16906e257428a8f7bee22ef734d2423f22536a435af9f7e1bb30ee40fa4f7a11",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4655,21 +4655,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/bce-national-ai-data-center-initiative-canada.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/bce-national-ai-data-center-initiative-canada.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_903761ead3bf7ab42c487bcea538ca2f8bd70e674034fe8b8a12fa35679cf219",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_50fadbb335ee1c27f584b1d72edc5271f81eb95148e33fe2d9444afcd1e3ddad",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4693,21 +4693,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/atlas-development-project-sail-georgia.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/atlas-development-project-sail-georgia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_0ce09b77590d04a11e6c38e404777381cc2d72043bcbbd02ba22440462d716e8",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_a73fff536821ef6a8ac1704d456ece05b5cda473e70242b285c672b601cf3919",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4735,17 +4735,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-goodyear-arizona-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_eb6a589d9e3707b5919092421af8963536061dd049712d9af0c400f97888d513",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4773,17 +4773,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/ntt-telangana-ai-data-center-cluster-india.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_fc1086e0d4aa1081432757969515f8528297b69b5bc91a6697c2015029a26903",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4811,17 +4811,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-quincy-washington-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_f82d4289f99819202f6626209257c3a6e5dae10e55f8b1974844f8563df106d8",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4849,17 +4849,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/naver-nvidia-morocco-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_d32084231892ed67b650210ddeb92a0be1f225dc1d198b1afdaa267342202d30",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4887,17 +4887,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-eu-west-1-dublin-ireland.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_2dc7a59eb2670765edf81c5d38cb04e1cb4ad332a1a9a03e659c366b185df90b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4921,21 +4921,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-hyperion-ai-data-center-louisiana.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-hyperion-ai-data-center-louisiana.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_4079cf1489cbde244ba35fee432103ba09c6bcbb06aa3df0814808cd7fa9a388",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_9864799d7b87daa1e86c52a8632ad18102de764555bd4e9fc402fab1d6ba6294",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4959,21 +4959,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-oklo-nuclear-ai-campus-ohio.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-oklo-nuclear-ai-campus-ohio.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_5e6a58bc1f6bbefa6fdf3104336f9a09af94f1f5609d423f4fc9a58a311ff824",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_4212f51fdf3d18d98e3ddb27320be0a336ec97758e8c68d4a1248f54e45b0ed7",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -4983,7 +4983,7 @@
     "operator": "Galaxy Data Center, Hoyinn Technologies, Galaxy Peak Data Center 404 MW",
     "developer": "Galaxy Data Center, Hoyinn Technologies, Galaxy Peak Data Center 404 MW",
     "country": "Thailand",
-    "country_code": "NL",
+    "country_code": "FI",
     "region": "Ban Chang, Rayong, Thailand",
     "county": "Ban Chang, Rayong, Thailand",
     "city": "Ban Chang, Rayong, Thailand",
@@ -5001,17 +5001,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/galaxy-data-center-rayong-1gw-ai-hub-thailand.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_07cf76a779ae937ebe495e09cbffc16fb10be074015b6d8a927df75ec4a88868",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5035,21 +5035,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/google-pine-island-minnesota-ai-campus.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-pine-island-minnesota-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_982545a8b9ea11291b5fde7b6876f06b1caefaa088929b6fbee8f6a4a9886ed8",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_6787808aa2eb14c2f3b392c99ac0a3fb2f6e370706a27665754135605ebea507",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5073,21 +5073,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-india-ai-infrastructure-hyderabad-pune.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-india-ai-infrastructure-hyderabad-pune.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_aa1cd412a819023639389bdc7edd086c4b110c7de30c3a5d000e60ab4ced0722",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_844dc59335a31e911d493162dbf4b6127c905fcc9eeb77bffcf9b2515bd77fe6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5111,21 +5111,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/aws-project-rainier-ai-campus-indiana.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-project-rainier-ai-campus-indiana.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_b6e404d068df99f0c0aa2dd54b15fec4d291c2d2bcf81f496272160cc38e9bd3",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_a96d5f4eb684281654cfe6720a67f01f4a526d594b1e939343dbb80219a93f94",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5149,21 +5149,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/amazon-aws-oregon-us-west-2-hillsboro.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/amazon-aws-oregon-us-west-2-hillsboro.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_10b21505d3b7befc3d172c4d4cd83806ed801396db18a5a2ce751f38008a65d2",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_f1d130ac52eb1ddb5139ae23ce56ce7704c8c7e3392c8ccd71a878904f05b39e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5191,17 +5191,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/rolls-royce-smr-data-center-initiative.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_dfb7cb79b49f37e08c173c43df1c3ae577a89b34b425e6e0a92b34c40276fd76",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5229,17 +5229,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-eemshaven-netherlands-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_653bd6244f4f28f91073df7bd20ca1c76cb14fca5120120e4f99f2b1bcdadb65",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5263,21 +5263,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/amazon-aws-ohio-us-east-2-new-albany.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/amazon-aws-ohio-us-east-2-new-albany.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_d42f96c31c34cc673d62c0ce8fad534a8a07a703c9eb02abfd068e07681deae5",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_bd1eb4d28fd00af59be40f453d3fa6d1662b07f663bf6ae9b6d1e20f3d74f773",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5305,17 +5305,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-clonee-ireland-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_d1f8c01882d5b898d3f687a2d75b95082c03bc001269be065996b0a6a6a1cf48",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5339,21 +5339,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/edf-opcore-montereau-ai-data-center-france.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/edf-opcore-montereau-ai-data-center-france.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_d745a879d89603c086a886c1f264786ecf2b182a5a51cd45c394fbd137368b2c",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_8df8c7c6e6a4e9b094b5c041dc16dc82b0415e8c6562101133efe26271214415",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5377,21 +5377,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/aws-orrock-tech-campus-virginia.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-orrock-tech-campus-virginia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_1fa8238942519e716b6261d4b3893e8f6a2e2e693dad9f8f07fb50c3cbaee74c",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_67502685fe9c58fea9841ecad79b0a86e2c14124b96a3382d8eaed208be33ab9",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5419,17 +5419,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aramco-digital-groq-inference-data-center-saudi-arabia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_1d813143d0c2d1dc29f28aef5a786ce66682605aeb81e2fed8efe93809aa6e52",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5453,21 +5453,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/adani-google-vizag-india-ai-campus.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/adani-google-vizag-india-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_6cfd6857770512a4f150dd92baab8bd47d1354ed3c3c5a537883288dac37bdbb",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_6f973c20c3a8214e4021b8b8106720c8e830e6316b77e2bbe331893c988ae84c",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5495,17 +5495,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/softbank-tomakomai-ai-data-center-japan.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_1d12b8bdcbffde375b4bd2ae1bff5cd3a2e05b2caa2f701c965b3ce7754d9311",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5529,21 +5529,21 @@
     "ai_association": "high",
     "source_url": "https://aidatacenterindex.com/datacenters/xai-gigascale-data-center-tennessee-mississippi.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/xai-gigascale-data-center-tennessee-mississippi.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_6dc5f186c1c903194108c65efd19b27c5694275c468b92d233c226457660fd8d",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_ffb7dac1b7b2700b6283ca0484f0abf01e6ffb0b79fcbfddb6334ae9c9070119",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5567,21 +5567,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/meta-terrapower-natrium-ai-campus-wyoming.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-terrapower-natrium-ai-campus-wyoming.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_eb558b29fc1aa32ed906e5c5d2d4fda9ef4b0f6fc65996669bb81b4d879c2f56",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_2f438a37511ac496f5004dbfeb1f46cb7b039ca16773b29ecaed722dcaa93fb1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5605,21 +5605,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/bytedance-johor-ai-data-center-malaysia.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/bytedance-johor-ai-data-center-malaysia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_441fe1a06e4222b36785a14bfa7df8f0e41dfcd8993425aae5c3b5a40bec166d",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_652a6fca8b7b04ae5e1ee5c27b45a7d30d6ad76310663cecd1bb82cb50cda1ee",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5647,17 +5647,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-changhua-ai-data-center-taiwan.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_639d22b844ca887fbcba2866b88b7b6aeee3fa2e82527dfa7ab659cbae28301b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5685,17 +5685,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/tesla-dojo-supercomputer-new-york.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_035a2740ced9b63ef9ef0b02e44870dfb6e0c2a1a6c93cb3bca08795bfc45b02",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5723,17 +5723,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-japan-ai-data-centers.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.355Z",
       "provenance_hash": "pd_6cb594ba631249278d784a1c5da3eb5f9e3ebe36adb327cd8299bff3cd9a301d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5761,17 +5761,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-brazil-cloud-region-expansion.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_a20af57dc3c9cbe34ddf7ae5974a8d91c04c04a73bc9561f6198627dd6361607",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5795,21 +5795,21 @@
     "ai_association": "unknown",
     "source_url": "https://aidatacenterindex.com/datacenters/vantage-texas-mega-campus-shackelford.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/vantage-texas-mega-campus-shackelford.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_24c817751d10499664bc7728dfe7341af289a4ff3dd8cd2b0deef6b81ed9f754",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_e1bc1d8c6f9b7c911be7b5bd757f56e63a410145aa46f50a74742e5b2635a415",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5837,17 +5837,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/google-saint-ghislain-belgium-ai-data-center.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.357Z",
       "provenance_hash": "pd_42a77672db9d23cb6ba28e696e586ee30ee1a097dffa081337a891349ef5d60b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5875,17 +5875,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/meta-fort-worth-texas-ai-campus.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_e4989b3af011c766973109de92abecbd9bfdee1962136f757b8c5ee9b4eb1ba2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5909,21 +5909,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/exxonmobil-1-5gw-data-center-power-plant-initiative.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.709Z",
+    "retrieved_at": "2026-08-24T03:42:08.975Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/exxonmobil-1-5gw-data-center-power-plant-initiative.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.709Z",
-      "provenance_hash": "pd_4a136d453a8d836b9a1815567d57f6b63486e8e2b93e47a43e991975c4ceb9e4",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.975Z",
+      "provenance_hash": "pd_9d41aac77e467009fbb0182a09893ac6fc21d83e02869b11c0413cc7e9c398b6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5947,21 +5947,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/aws-tokyo-ap-northeast-1-japan.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aws-tokyo-ap-northeast-1-japan.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_2bf7fde78503279ca9769a40258365911dada009b73c01b16d8e3b36caa5b49e",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_2c0e00f927d5d53a89725a2a1a88e144972fb13642633517b2ea4d7b587c7cc1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -5989,17 +5989,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/applied-digital-ellendale-north-dakota-gpu-cloud.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_c558c78b2321788b1e15172cd6a229e9b382e0cca460c86f079b72501c998e27",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6023,21 +6023,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-poland-central-warsaw.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-poland-central-warsaw.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_f7de119854a3cf76d5f393f9a5aff6aa0626a67512fa8e900f2fa038b704a7dd",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_cc0574355791f2f02861c89179c625fc860cc881106aabe2693a2d4b8af91fc5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6065,17 +6065,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/cloudhq-queretaro-ai-mega-campus-mexico.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.358Z",
       "provenance_hash": "pd_712367b810b20caaf8c8820851efdcfe46804a42778166daae85802e59a6eb36",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6103,17 +6103,17 @@
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-azure-netherlands-region.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
+      "collector_id": "c_pd_datacenters_01",
       "retrieved_at": "2026-08-23T17:26:52.356Z",
       "provenance_hash": "pd_53aa1fde2008b6e50bb35593cfc7ae9c8bbbe90131f663deaa83fa8175f32006",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6137,21 +6137,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/microsoft-project-fairwater-wisconsin.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/microsoft-project-fairwater-wisconsin.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_475d55b58a256b90c8138cbfb7687edd13f58b4d452bf3737d1c9733c19e0afb",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_2e69b9316b210d29350af38e418521ca9eb54c2fa415d89135008f29ef04f8e9",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6175,21 +6175,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/g42-uae-us-ai-campus-abu-dhabi.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.708Z",
+    "retrieved_at": "2026-08-24T03:42:08.974Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/g42-uae-us-ai-campus-abu-dhabi.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.708Z",
-      "provenance_hash": "pd_496665b206bd444453d91fe965ef0b2ec5b5a2327a07793d094ea9dff924717e",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.974Z",
+      "provenance_hash": "pd_dee2b35da16a2b36e6cdb495b3ab77ea53c9275cd322095a7d483e819978ff07",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   },
@@ -6213,21 +6213,21 @@
     "ai_association": "medium",
     "source_url": "https://aidatacenterindex.com/datacenters/aramco-digital-groq-inference-data-center-saudi-arabia.html",
     "source_name": "aidatacenterindex.com",
-    "retrieved_at": "2026-08-23T17:31:15.710Z",
+    "retrieved_at": "2026-08-24T03:42:08.976Z",
     "provenance": {
       "source_name": "aidatacenterindex.com",
       "source_url": "https://aidatacenterindex.com/datacenters/aramco-digital-groq-inference-data-center-saudi-arabia.html",
-      "collector_id": "c_mt5jpgbb1jwdnovfeu",
-      "retrieved_at": "2026-08-23T17:31:15.710Z",
-      "provenance_hash": "pd_c531e664da42e0d00f2d8fac626d9778fd70e51327e15f3938f76cf3ad37c5ff",
+      "collector_id": "c_pd_datacenters_01",
+      "retrieved_at": "2026-08-24T03:42:08.976Z",
+      "provenance_hash": "pd_d83252a83ea3456114a64e6073f93fe9ada90d53f103db07081afd4b91b22532",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5jpgbb1jwdnovfeu"
+        "brightdata_collector": "c_pd_datacenters_01"
       }
     }
   }

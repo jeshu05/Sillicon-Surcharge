@@ -18,17 +18,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Loudoun_County-VA.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_db13a11b2603f8cd6676f1f5bebb4a56bf9162cf634a3268295b14f026478de7",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -51,17 +51,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Prince_William_County-VA.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_0b96cdd99c1fc54a107e78c5cd3ae29fca60029d06a4c655a2f469e2de70e18d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -84,17 +84,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Caroline_County-VA.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_b97111d234b69bfea806dafcb901253376979821c3540ebc747fbbce840c227e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -117,17 +117,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Franklin_County-OH.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_ea670317fc441a5d44f0bcbf2be0e1e55a84269cb8e310ab99d9409c6c05b833",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -150,17 +150,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Maricopa_County-AZ.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_58e0033d4666ca61f0ed2f96f99607ee9e309f348815b4c0228b82885e9b943f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -183,17 +183,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Dallas_County-TX.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_48fbe20007d0e82fd63cc20af9d61640f8213bd266dd32a2c3dc19fb4422cefe",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -216,17 +216,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Shackelford_County-TX.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_f2831edce4a5eeccda4dca538cc8e1168b4f8d9edd0b3c61361f541874dd13f1",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -249,17 +249,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Richland_Parish-LA.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_e1208cd6aa3a8fbf4a857a83d66edeea8be678f2c429102f9ad6388ad93b7096",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -282,17 +282,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Racine_County-WI.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_8afdc337269f9a592fc681870c2d595866351ebdbb97f8cc6e0996ae6844130f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -315,17 +315,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/St_Joseph_County-IN.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_a99998bbef121612cc0b66ad1ac8c27af38c0eee10b485c949b3cddbfd2c6c7c",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -348,17 +348,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Shelby_County-TN.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_09922f5ac42a111f7abcdddaf2f5400c8cc5a77bb3d3b3415b38e8f8699c4448",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -381,17 +381,17 @@
     "provenance": {
       "source_name": "city-data.com",
       "source_url": "https://www.city-data.com/county/Luzerne_County-PA.html",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_a261351eb45fd1410531008bacdbb54b5bd411e10f6d1e1198f442b37cdd4de2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -414,17 +414,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Dublin",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_516761b77a76e91323f811d44f0384eb1b6f7dafcf21295e3e581365577644b0",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -447,17 +447,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Frankfurt",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_ab821f752b55c2c98b9277885791dfba984bbae6350b61f7eb6fbf9b636c0868",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -480,17 +480,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Slough-United-Kingdom",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_2565b5ffa7022e8178e01d8f8670741a6089f0ac183f12e27a8835a2bc1ee1db",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -513,17 +513,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Amsterdam",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_96fc7c56a875f2a8bb4976e25d1b5952801aa8d1490382376ba4ff468c11292e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -546,17 +546,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Paris",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_3c4983f08cbf2e013b73a31d048b601c2ce90bee1934d2ee854cc043294c3ba3",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -579,17 +579,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Madrid",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_93b25976e959e2465c7480bc8315f3a4b7a994b4903be60fbe308806d9c3b509",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -612,17 +612,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Stockholm",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_93e0a980a7abff70304b4a8af978ff1af51cf28c19ec2e4414b18ee50c026469",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -645,17 +645,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Oslo",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_6f3018137bf83303f7452c6f6254ff5d88fac8ee486adef75b648a934dadf3e9",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -678,17 +678,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Abu-Dhabi",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_255b60c4077d6845711325a8d2aa28634dfc9226dcc963b78272b58e26c15db6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -711,17 +711,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Tokyo",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_8158c25b3ed0e59594e16a3de2bfb5abef86d328343efcb3be06d37aa6df1c42",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -744,17 +744,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Singapore",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_f6180dc20009e4f3fdd59ba6d04488d7f4895061ebc7e72ecc365f76f1901b42",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -777,17 +777,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Seoul",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_8617c9d22a9b2debe5fbabc910900e1e308b83a5dd7a908dae3b5a89088759ed",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -810,17 +810,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Mumbai",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_f56cb9ad7321be9909db38fcb45fc72f6bb3414741ff7b30127328ae94773ca6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -843,17 +843,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Sydney",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_7d127e7b51a53ed2b0060095bfc8c0da01557c4242c5df55104c553534677f23",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -876,17 +876,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Melbourne",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_457dc1f4cee29cb13c889a505eed711ec3992acc56c47ee6d3beb967db29a6ca",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -909,17 +909,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Chennai",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_c842c04e3a9619e15b930c0d3b2b75b27ec513cc581e45c6c65182c4f068988a",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -942,17 +942,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Hyderabad",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_a0d34fc1c6922447c9e53686e3da6a5e1e1242c59345544f893142ce0387201e",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -975,17 +975,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Bangalore",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_67113294679662b47827c82244de0e326cd3382e5aaff3949fd3c510f11f293b",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1008,17 +1008,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Beijing",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_b91c107f4ddb4cfa72f1020ee3d1c88b2f215a6b04345a01d40aa41e50687939",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1041,17 +1041,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Shenzhen",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_f41526ef14ff6373ce2f1cb789d7b65d14e9c5850a9c374a3af192774819c0f5",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1074,17 +1074,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Guiyang",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_525324ecacd8a90049c4b1012a955f88d90678178d90d96ed9f7519e6d6057e2",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1107,17 +1107,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Moscow",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_3bdcbaea3e0eedeab9795f7a5c049889b891fb679eaa94191904f23911df6865",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1140,17 +1140,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Johannesburg",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_4fafc8a12c0dd4fd53a8b413e32d623428a90fa8c1c08d1493da2e93355da304",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1173,17 +1173,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Cape-Town",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_c6627939fd301b2835fdcb1ee1b7daf7cb7582ee9f3da9c86e7003da8140aa45",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1206,17 +1206,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Nairobi",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_440b9d8c52d28771c11fc4c3f18e74adc2f1c08332820683e0d490a911509666",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1239,17 +1239,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Lagos",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_7ec0bd5704b1868700a42f2ebe0340d601ab9a3fa398ad7cc7eaeb330727142f",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1272,17 +1272,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Cairo",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_6402b9c5882865fb7bbf39bed6a0f701ac55499fff4e22da2a22fe85cf9c79b4",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1305,17 +1305,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Jakarta",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_950c1c14b9868a8a6674cf27fe87c67768bc04ca0a64c73286aa072306b1b8e7",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1338,17 +1338,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Johor-Bahru",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_b74179ca3a60837f425871e8c681b205cd1854d50dca478623cb2c4c203dec45",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1371,17 +1371,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Taipei",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_5f4a63cf5caaa686dacf011dccadf827dcec5f9e2fe02575d494020dbabbb4b6",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1404,17 +1404,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Warsaw",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_d143c7a31650f04f56b30791c4115c73bb9d05d62289d71bb8679dec45613b6c",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1437,17 +1437,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Riyadh",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_c0e39ac222a3467f1de4a65462c3b1c65bc6bda1a75ad8c0d387b8d83e0ce399",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1470,17 +1470,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Queretaro",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_02d5d45279b56f6c3565a4b6da457582d3b5425130cf877d371c71710c74f174",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1503,17 +1503,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Santiago",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_88300273a4b388dc5aa4b0965d97e9afca7fb58f102d0e344c3037ff9fffa8fa",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1536,17 +1536,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Porto-Alegre",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_fee89257e85e3ca4cfc90f437135fe3842cb27b693a6874a2c8d640b5a3fca5d",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   },
@@ -1569,17 +1569,17 @@
     "provenance": {
       "source_name": "numbeo.com",
       "source_url": "https://www.numbeo.com/cost-of-living/in/Calgary",
-      "collector_id": "c_mt5k12zk2qzd5rjm0d",
+      "collector_id": "c_pd_economics_03",
       "retrieved_at": "2026-08-23T11:14:20.974Z",
       "provenance_hash": "pd_305a4787afd24124663d5c591909426578ee447ddee739e183bbdcf8e52bedcf",
       "verification_status": "VERIFIED_PUBLIC_SOURCE",
       "is_simulated": false,
-      "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
+      "provenance_type": "LIVE_PUBLIC_SCRAPE",
       "compliance_audit": {
         "is_paywalled": false,
         "is_login_walled": false,
         "is_personal_data": false,
-        "brightdata_collector": "c_mt5k12zk2qzd5rjm0d"
+        "brightdata_collector": "c_pd_economics_03"
       }
     }
   }

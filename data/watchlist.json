@@ -63,18 +63,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/meta-hyperion-ai-data-center-louisiana.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/louisiana/richland-parish/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Richland_Parish-LA.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-pa-luzerne",
@@ -148,18 +148,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/aws-ai-innovation-campuses-pennsylvania.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/pennsylvania/luzerne-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Luzerne_County-PA.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-oh-franklin",
@@ -257,18 +257,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/ohio/franklin-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Franklin_County-OH.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-in-st-joseph",
@@ -342,18 +342,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/aws-project-rainier-ai-campus-indiana.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/indiana/st-joseph-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/St_Joseph_County-IN.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-wi-racine",
@@ -427,18 +427,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/microsoft-project-fairwater-wisconsin.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/wisconsin/racine-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Racine_County-WI.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-tn-shelby",
@@ -504,18 +504,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/xai-gigascale-data-center-tennessee-mississippi.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/tennessee/shelby-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Shelby_County-TN.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-tx-dallas",
@@ -629,18 +629,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/texas/dallas-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Dallas_County-TX.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-va-loudoun",
@@ -738,18 +738,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/virginia/loudoun-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Loudoun_County-VA.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.306Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.306Z"
   },
   {
     "region_id": "ie-leinster-dublin",
@@ -839,18 +839,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Dublin",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "fr-idf-paris",
@@ -940,18 +940,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/softbank-france-ai-data-center-capacity-program.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Paris",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "kr-46-jeollanam",
@@ -1025,18 +1025,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/stock-farm-road-ai-data-center-south-korea.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Seoul",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "ca-ab-calgary",
@@ -1102,18 +1102,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/wonder-valley-off-grid-ai-data-center-park.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Calgary",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "jp-kanto-tokyo",
@@ -1203,18 +1203,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Tokyo",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "br-rs-rio-grande",
@@ -1280,18 +1280,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/scala-ai-city-eldorado-do-sul-brazil.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Porto-Alegre",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-or-washington",
@@ -1365,18 +1365,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-the-dalles-oregon-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "gb-eng-slough",
@@ -1474,18 +1474,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/United-Kingdom/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Slough-United-Kingdom",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-az-maricopa",
@@ -1551,18 +1551,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "findenergy.com",
       "electricity_url": "https://findenergy.com/electricity/arizona/maricopa-county/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "city-data.com",
       "economics_url": "https://www.city-data.com/county/Maricopa_County-AZ.html",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "ae-az-abu-dhabi",
@@ -1628,18 +1628,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/g42-uae-us-ai-campus-abu-dhabi.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/United-Arab-Emirates/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Abu-Dhabi",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "za-gt-johannesburg",
@@ -1705,18 +1705,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Johannesburg",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "sa-ri-riyadh",
@@ -1806,18 +1806,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Riyadh",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-ga-douglas",
@@ -1875,18 +1875,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/atlas-development-project-sail-georgia.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-ia-polk",
@@ -1960,18 +1960,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/nextera-duane-arnold-nuclear-plant-reactivation.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "se-ab-stockholm",
@@ -2037,18 +2037,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Stockholm",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "de-he-frankfurt",
@@ -2114,18 +2114,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Frankfurt",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-ut-salt-lake",
@@ -2183,18 +2183,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/meta-eagle-mountain-utah-ai-campus.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "no-03-oslo",
@@ -2252,18 +2252,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Oslo",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "au-nsw-sydney",
@@ -2337,18 +2337,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Sydney",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "za-wc-capetown",
@@ -2406,18 +2406,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/South-Africa/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Cape-Town",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "my-jh-johor",
@@ -2515,18 +2515,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Johor-Bahru",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-ca-santa-clara",
@@ -2575,18 +2575,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-il-cook",
@@ -2635,18 +2635,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-nv-storey",
@@ -2695,18 +2695,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-nc-mecklenburg",
@@ -2755,18 +2755,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "electricchoice.com / findenergy.com",
       "electricity_url": "https://www.electricchoice.com/electricity-prices-by-state/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "au-vic-melbourne",
@@ -2840,18 +2840,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/Australia/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Melbourne",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "cl-rm-santiago",
@@ -2909,18 +2909,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Santiago",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-cer-cernavod",
@@ -2977,18 +2977,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/romania-black-sea-ai-gigafactory.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "in-mh-mumbai",
@@ -3062,18 +3062,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Mumbai",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "in-tg-hyderabad",
@@ -3147,18 +3147,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/India/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Hyderabad",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "ng-la-lagos",
@@ -3216,18 +3216,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Lagos",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-uni-uniteds",
@@ -3300,18 +3300,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-kairos-power-ai-data-center-initiative.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "es-md-madrid",
@@ -3369,18 +3369,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Madrid",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "mx-qt-queretaro",
@@ -3462,18 +3462,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Queretaro",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "cn-nm-horinger",
@@ -3547,18 +3547,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/China/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Guiyang",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "pl-mz-warsaw",
@@ -3624,18 +3624,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Warsaw",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "nl-nh-amsterdam",
@@ -3701,18 +3701,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Amsterdam",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "ke-na-nairobi",
@@ -3770,18 +3770,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Nairobi",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "tw-tp-taipei",
@@ -3847,18 +3847,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/Taiwan/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Taipei",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-and-andhrap",
@@ -3915,18 +3915,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/adani-google-vizag-india-ai-campus.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "sg-central-singapore",
@@ -3992,18 +3992,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Singapore",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "id-jb-jakarta",
@@ -4077,18 +4077,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Jakarta",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-pin-pineisl",
@@ -4145,18 +4145,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-pine-island-minnesota-ai-campus.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "ru-mo-moscow",
@@ -4230,26 +4230,26 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Moscow",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
-    "region_id": "nl-ban-bangkok",
+    "region_id": "fi-ban-bangkok",
     "name": "Bangkok, Bangkok / Chonburi, Thailand, Bangkok, Bangkok / Chonburi, Thailand",
     "county": "Bangkok, Bangkok / Chonburi, Thailand",
     "state_province": "Bangkok, Bangkok / Chonburi, Thailand",
     "country": "Thailand",
-    "country_code": "NL",
+    "country_code": "FI",
     "coordinates": {
       "lat": 15.9,
       "lng": 100.9
@@ -4298,18 +4298,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/bytedance-thailand-ai-data-hub.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-pav-pavlodar",
@@ -4366,18 +4366,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/ekibastuz-ai-data-center-valley-kazakhstan.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-bri-british",
@@ -4434,18 +4434,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/bce-national-ai-data-center-initiative-canada.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-qui-quincy",
@@ -4502,18 +4502,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/microsoft-quincy-washington-ai-campus.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "de-tam-tamesna",
@@ -4570,26 +4570,26 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/naver-nvidia-morocco-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
-    "region_id": "nl-ban-banchan",
+    "region_id": "fi-ban-banchan",
     "name": "Ban Chang, Rayong, Thailand, Ban Chang, Rayong, Thailand",
     "county": "Ban Chang, Rayong, Thailand",
     "state_province": "Ban Chang, Rayong, Thailand",
     "country": "Thailand",
-    "country_code": "NL",
+    "country_code": "FI",
     "coordinates": {
       "lat": 15.9,
       "lng": 100.9
@@ -4638,18 +4638,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/galaxy-data-center-rayong-1gw-ai-hub-thailand.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "fi-eem-eemshave",
@@ -4706,18 +4706,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-eemshaven-netherlands-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-buf-buffalo",
@@ -4774,18 +4774,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/tesla-dojo-supercomputer-new-york.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-ell-ellendal",
@@ -4842,18 +4842,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/applied-digital-ellendale-north-dakota-gpu-cloud.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "in-tn-chennai",
@@ -4911,18 +4911,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/India/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Chennai",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "eg-ca-cairo",
@@ -4980,18 +4980,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Cairo",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-pap-papillio",
@@ -5048,18 +5048,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/meta-papillion-nebraska-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-zar-zaragoza",
@@ -5116,18 +5116,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/microsoft-aragon-ai-campus-spain.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "no-kri-kristian",
@@ -5184,18 +5184,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/bulk-data-centers-n01-ai-campus-norway.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "dk-ode-odense",
@@ -5252,18 +5252,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/meta-odense-denmark-ai-ready-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "rs-lul-lulen",
@@ -5320,18 +5320,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/meta-lulea-ai-data-center-sweden.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-mon-moncksc",
@@ -5388,18 +5388,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-south-carolina-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "jp-tom-tomakoma",
@@ -5456,18 +5456,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/softbank-tomakomai-ai-data-center-japan.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "gb-so-sopaul",
@@ -5524,18 +5524,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/aws-brazil-cloud-region-expansion.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "be-sai-saintgh",
@@ -5592,18 +5592,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-saint-ghislain-belgium-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "cn-hb-zhangbei",
@@ -5677,18 +5677,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Beijing",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-so-sopaul",
@@ -5745,18 +5745,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/microsoft-brazil-sao-paulo-expansion.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "ph-bi-bianl",
@@ -5813,18 +5813,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/damac-laguna-ai-data-center-philippines.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "us-okl-oklahoma",
@@ -5881,26 +5881,26 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/google-pryor-oklahoma-ai-data-center.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
-    "region_id": "tz-inv-invercar",
+    "region_id": "ch-inv-invercar",
     "name": "Invercargill, Southland, New Zealand, Invercargill, Southland, New Zealand",
     "county": "Invercargill, Southland, New Zealand",
     "state_province": "Invercargill, Southland, New Zealand",
     "country": "New Zealand",
-    "country_code": "TZ",
+    "country_code": "CH",
     "coordinates": {
       "lat": -40.9,
       "lng": 174.9
@@ -5949,18 +5949,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/datagrid-ai-factory-southland-new-zealand.html",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.883Z"
+      "retrieved_at": "2026-08-24T03:42:09.308Z"
     },
-    "last_updated": "2026-08-23T17:31:15.883Z"
+    "last_updated": "2026-08-24T03:42:09.308Z"
   },
   {
     "region_id": "in-ka-bengaluru",
@@ -6018,18 +6018,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/India/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Bangalore",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-va-prince-william",
@@ -6078,18 +6078,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-va-caroline",
@@ -6138,18 +6138,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-tx-shackelford",
@@ -6198,18 +6198,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.881Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.881Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "us-tx-bexar",
@@ -6258,18 +6258,18 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com / findenergy.com",
       "electricity_url": "https://www.globalpetrolprices.com/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/prices_by_country.jsp",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   },
   {
     "region_id": "cn-gd-qingyuan",
@@ -6327,17 +6327,17 @@
     "provenance": {
       "facilities_source": "aidatacenterindex.com",
       "facilities_url": "https://aidatacenterindex.com/datacenters/",
-      "facilities_collector": "c_mt5jpgbb1jwdnovfeu",
+      "facilities_collector": "c_pd_datacenters_01",
       "electricity_source": "globalpetrolprices.com",
       "electricity_url": "https://www.globalpetrolprices.com/China/electricity_prices/",
-      "electricity_collector": "c_mt5k0hcv20n2v7arut",
+      "electricity_collector": "c_pd_electricity_02",
       "economics_source": "numbeo.com",
       "economics_url": "https://www.numbeo.com/cost-of-living/in/Shenzhen",
-      "economics_collector": "c_mt5k12zk2qzd5rjm0d",
+      "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-23T17:31:15.882Z"
+      "retrieved_at": "2026-08-24T03:42:09.307Z"
     },
-    "last_updated": "2026-08-23T17:31:15.882Z"
+    "last_updated": "2026-08-24T03:42:09.307Z"
   }
 ]
