@@ -72,9 +72,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-pa-luzerne",
@@ -157,9 +157,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-oh-franklin",
@@ -266,9 +266,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-in-st-joseph",
@@ -351,9 +351,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-wi-racine",
@@ -436,9 +436,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-tn-shelby",
@@ -513,9 +513,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-tx-dallas",
@@ -638,9 +638,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-va-loudoun",
@@ -747,9 +747,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "ie-leinster-dublin",
@@ -848,9 +848,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "fr-idf-paris",
@@ -949,9 +949,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "kr-46-jeollanam",
@@ -1034,9 +1034,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "ca-ab-calgary",
@@ -1111,9 +1111,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "jp-kanto-tokyo",
@@ -1212,9 +1212,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "br-rs-rio-grande",
@@ -1289,9 +1289,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-or-washington",
@@ -1374,9 +1374,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "gb-eng-slough",
@@ -1483,9 +1483,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-az-maricopa",
@@ -1560,9 +1560,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "ae-az-abu-dhabi",
@@ -1637,9 +1637,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "za-gt-johannesburg",
@@ -1714,9 +1714,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "sa-ri-riyadh",
@@ -1815,9 +1815,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-ga-douglas",
@@ -1884,9 +1884,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-ia-polk",
@@ -1969,9 +1969,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "se-ab-stockholm",
@@ -2046,9 +2046,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "de-he-frankfurt",
@@ -2123,9 +2123,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-ut-salt-lake",
@@ -2192,9 +2192,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "no-03-oslo",
@@ -2261,9 +2261,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "au-nsw-sydney",
@@ -2346,9 +2346,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "za-wc-capetown",
@@ -2415,9 +2415,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "my-jh-johor",
@@ -2524,9 +2524,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-ca-santa-clara",
@@ -2584,9 +2584,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-il-cook",
@@ -2644,9 +2644,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-nv-storey",
@@ -2704,9 +2704,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-nc-mecklenburg",
@@ -2764,9 +2764,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "au-vic-melbourne",
@@ -2849,9 +2849,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "cl-rm-santiago",
@@ -2918,9 +2918,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-cer-cernavod",
@@ -2986,9 +2986,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "in-mh-mumbai",
@@ -3071,9 +3071,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "in-tg-hyderabad",
@@ -3156,9 +3156,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "ng-la-lagos",
@@ -3225,9 +3225,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-uni-uniteds",
@@ -3309,9 +3309,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "es-md-madrid",
@@ -3378,9 +3378,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "mx-qt-queretaro",
@@ -3471,9 +3471,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "cn-nm-horinger",
@@ -3556,9 +3556,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "pl-mz-warsaw",
@@ -3633,9 +3633,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "nl-nh-amsterdam",
@@ -3710,9 +3710,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "ke-na-nairobi",
@@ -3779,9 +3779,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "tw-tp-taipei",
@@ -3856,9 +3856,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-and-andhrap",
@@ -3924,9 +3924,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "sg-central-singapore",
@@ -4001,9 +4001,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "id-jb-jakarta",
@@ -4086,9 +4086,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-pin-pineisl",
@@ -4154,9 +4154,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "ru-mo-moscow",
@@ -4239,9 +4239,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "fi-ban-bangkok",
@@ -4307,9 +4307,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-pav-pavlodar",
@@ -4375,9 +4375,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-bri-british",
@@ -4443,9 +4443,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-qui-quincy",
@@ -4511,9 +4511,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "de-tam-tamesna",
@@ -4579,9 +4579,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "fi-ban-banchan",
@@ -4647,9 +4647,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "fi-eem-eemshave",
@@ -4715,9 +4715,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-buf-buffalo",
@@ -4783,9 +4783,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-ell-ellendal",
@@ -4851,9 +4851,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "in-tn-chennai",
@@ -4920,9 +4920,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "eg-ca-cairo",
@@ -4989,9 +4989,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-pap-papillio",
@@ -5057,9 +5057,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-zar-zaragoza",
@@ -5125,9 +5125,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "no-kri-kristian",
@@ -5193,9 +5193,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "dk-ode-odense",
@@ -5261,9 +5261,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "rs-lul-lulen",
@@ -5329,9 +5329,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-mon-moncksc",
@@ -5397,9 +5397,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "jp-tom-tomakoma",
@@ -5465,9 +5465,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "gb-so-sopaul",
@@ -5533,9 +5533,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "be-sai-saintgh",
@@ -5601,9 +5601,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "cn-hb-zhangbei",
@@ -5686,9 +5686,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-so-sopaul",
@@ -5754,9 +5754,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "ph-bi-bianl",
@@ -5822,9 +5822,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-okl-oklahoma",
@@ -5890,9 +5890,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "de-inv-invercar",
@@ -5958,9 +5958,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.178Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.178Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "in-ka-bengaluru",
@@ -6027,9 +6027,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   },
   {
     "region_id": "us-va-prince-william",
@@ -6087,9 +6087,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-va-caroline",
@@ -6147,9 +6147,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-tx-shackelford",
@@ -6207,9 +6207,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "us-tx-bexar",
@@ -6267,9 +6267,9 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.248Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.248Z"
   },
   {
     "region_id": "cn-gd-qingyuan",
@@ -6336,8 +6336,8 @@
       "economics_collector": "c_pd_economics_03",
       "is_simulated": false,
       "provenance_type": "LIVE_BRIGHTDATA_COLLECTOR",
-      "retrieved_at": "2026-08-26T03:42:36.177Z"
+      "retrieved_at": "2026-08-27T13:12:32.249Z"
     },
-    "last_updated": "2026-08-26T03:42:36.177Z"
+    "last_updated": "2026-08-27T13:12:32.249Z"
   }
 ]
