@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T09:27:28.936Z",
-  "execution_duration_ms": 3561,
+  "generated_at": "2026-08-30T08:35:32.614Z",
+  "execution_duration_ms": 2846,
   "collectors": [
     {
       "collector_id": "c_pd_datacenters_01",
@@ -18,9 +18,9 @@
       "name": "Residential Electricity Tariffs",
       "target_source": "globalpetrolprices.com / findenergy.com",
       "status": "HEALTHY",
-      "total_records": 815,
-      "valid_records": 813,
-      "anomalies_count": 2,
+      "total_records": 866,
+      "valid_records": 865,
+      "anomalies_count": 1,
       "freshness_status": "FRESH (Updated today)",
       "schedule": "Daily / Weekly"
     },
@@ -45,18 +45,6 @@
         {
           "field": "residential_rate_cents_kwh",
           "value": 166.61,
-          "reason": "Value outside expected range [0.5 - 150 cents/kWh]"
-        }
-      ]
-    },
-    {
-      "domain": "electricity",
-      "index": 448,
-      "utility": "Rwanda National Electric Tariff (Aggregator Index)",
-      "anomalyIssues": [
-        {
-          "field": "residential_rate_cents_kwh",
-          "value": 361.09,
           "reason": "Value outside expected range [0.5 - 150 cents/kWh]"
         }
       ]
