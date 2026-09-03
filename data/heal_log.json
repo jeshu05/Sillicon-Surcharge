@@ -1,12 +1,37 @@
 {
   "summary": {
-    "total_runs": 24,
-    "successful_heals": 24,
+    "total_runs": 25,
+    "successful_heals": 25,
     "failed_heals": 0,
     "manual_interventions": 0,
-    "last_heal_timestamp": "2026-09-02T07:22:05.078Z"
+    "last_heal_timestamp": "2026-09-03T07:25:36.873Z"
   },
   "events": [
+    {
+      "event_id": "heal_1788420336873",
+      "timestamp": "2026-09-03T07:25:36.873Z",
+      "collector_id": "c_mt5k0hcv20n2v7arut",
+      "domain": "electricity",
+      "failure": {
+        "type": "SCHEMA_DRIFT_SELECTOR_CHANGED",
+        "field": "residential_rate_cents_kwh",
+        "affected_records": 2,
+        "total_records": 3
+      },
+      "repair": {
+        "objective": "Update DOM extraction selector for 'residential_rate_cents_kwh' while strictly preserving the existing output JSON schema contract. Ensure null safety and clean numeric parsing.",
+        "status": "APPROVED",
+        "method": "BRIGHT_DATA_CLI_HEAL"
+      },
+      "verification": {
+        "before_valid": 1,
+        "after_valid": 3,
+        "total": 3,
+        "pass_rate_pct": 100,
+        "anomalies_count": 0
+      },
+      "repair_status": "APPROVED"
+    },
     {
       "event_id": "heal_1788333725078",
       "timestamp": "2026-09-02T07:22:05.078Z",
