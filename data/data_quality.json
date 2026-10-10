@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T09:42:48.314Z",
-  "execution_duration_ms": 4143,
+  "generated_at": "2026-10-10T09:09:20.683Z",
+  "execution_duration_ms": 2613,
   "collectors": [
     {
       "collector_id": "c_pd_datacenters_01",
@@ -18,8 +18,8 @@
       "name": "Residential Electricity Tariffs",
       "target_source": "globalpetrolprices.com / findenergy.com",
       "status": "HEALTHY",
-      "total_records": 2742,
-      "valid_records": 2741,
+      "total_records": 2752,
+      "valid_records": 2751,
       "anomalies_count": 1,
       "freshness_status": "FRESH (Updated today)",
       "schedule": "Daily / Weekly"
